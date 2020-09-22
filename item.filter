@@ -927,17 +927,17 @@ ItemDisplay[ssp !CLVL<19]: // 	Short Spear
 ItemDisplay[glv !CLVL<19]: // 	Glaive
 ItemDisplay[tsp !CLVL<19]: // 	Throwing Spear
 //─────────────────────────────────────────────────
-//ItemDisplay[9ja]: // 	War Javelin
-//ItemDisplay[9pi]: // 	Great Pilum
-//ItemDisplay[9s9]: // 	Simbilan
-//ItemDisplay[9gl]: // 	Spiculum
-//ItemDisplay[9ts]: // 	Harpoon
+ItemDisplay[9ja]: // 	War Javelin
+ItemDisplay[9pi]: // 	Great Pilum
+ItemDisplay[9s9]: // 	Simbilan
+ItemDisplay[9gl]: // 	Spiculum
+ItemDisplay[9ts]: // 	Harpoon
 //─────────────────────────────────────────────────
-//ItemDisplay[7ja]: // 	Hyperion Javelin
-//ItemDisplay[7pi]: // 	Stygian Pilum
-//ItemDisplay[7s7]: // 	Balrog Spear
-//ItemDisplay[7gl]: // 	Ghost Glaive
-//ItemDisplay[7ts]: // 	Winged Harpoon
+ItemDisplay[7ja]: // 	Hyperion Javelin
+ItemDisplay[7pi]: // 	Stygian Pilum
+ItemDisplay[7s7]: // 	Balrog Spear
+ItemDisplay[7gl]: // 	Ghost Glaive
+ItemDisplay[7ts]: // 	Winged Harpoon
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Spears  ███████ //
 ItemDisplay[spr !CLVL<19]: // 	Spear
