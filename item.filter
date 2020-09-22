@@ -1356,8 +1356,8 @@ ItemDisplay[SET]: %NAME%
 // ███████  Other Headgear  ███████ //
 //ItemDisplay[ci0]: // 	Circlet
 //ItemDisplay[ci1]: // 	Coronet
-//ItemDisplay[ci2]: %NAME% [L%ILVL%]
-//ItemDisplay[ci3]: %NAME% [L%ILVL%]
+ItemDisplay[ci2]: %NAME% [L%ILVL%]
+ItemDisplay[ci3]: %NAME% [L%ILVL%]
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Catchall  ███████ //
 ItemDisplay[ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
