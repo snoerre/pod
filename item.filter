@@ -55,55 +55,55 @@ ItemDisplay[GOLD<3000 (CLVL>39 AND CLVL<=69)]:
 ItemDisplay[GOLD<5000 CLVL>69]: 
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Misc.  ███████ //
-//ItemDisplay[key]: // Key
-//ItemDisplay[tsc]: // Town Portal Scroll
-//ItemDisplay[tbk]: // Town Portal Tome
-//ItemDisplay[isc]: // Identify Scroll
-//ItemDisplay[ibk]: // Identify Tome
+ItemDisplay[key]: // Key
+ItemDisplay[tsc]: // Town Portal Scroll
+ItemDisplay[tbk]: // Town Portal Tome
+ItemDisplay[isc]: // Identify Scroll
+ItemDisplay[ibk]: // Identify Tome
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Jewelry  ███████ //
-//ItemDisplay[amu]: // amulet
-//ItemDisplay[rin]: // rings
-//ItemDisplay[jew]: // Jewel
+ItemDisplay[amu]: // amulet
+ItemDisplay[rin]: // rings
+ItemDisplay[jew]: // Jewel
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Arrows and Bolts  ███████ //
-//ItemDisplay[aqv]: //	Rusted Arrows
-//ItemDisplay[cqv]: // 	Rusted Bolts
-//ItemDisplay[aq2]: // 	Arrows
-//ItemDisplay[cq2]: // 	Bolts
+ItemDisplay[aqv]: //	Rusted Arrows
+ItemDisplay[cqv]: // 	Rusted Bolts
+ItemDisplay[aq2]: // 	Arrows
+ItemDisplay[cq2]: // 	Bolts
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gems  ███████ //
-//ItemDisplay[gcv]: //	Chipped Amethyst
-//ItemDisplay[gcy]: // 	Chipped Topaz
-//ItemDisplay[gcb]: // 	Chipped Sapphire
-//ItemDisplay[gcg]: // 	Chipped Emerald
-//ItemDisplay[gcr]: // 	Chipped Ruby
-//ItemDisplay[gcw]: //	Chipped Diamond
-//ItemDisplay[skc]: // 	Chipped Skull
+ItemDisplay[gcv]: //	Chipped Amethyst
+ItemDisplay[gcy]: // 	Chipped Topaz
+ItemDisplay[gcb]: // 	Chipped Sapphire
+ItemDisplay[gcg]: // 	Chipped Emerald
+ItemDisplay[gcr]: // 	Chipped Ruby
+ItemDisplay[gcw]: //	Chipped Diamond
+ItemDisplay[skc]: // 	Chipped Skull
 //─────────────────────────────────────────────────
-//ItemDisplay[gfv]: // 	Flawed Amethyst
-//ItemDisplay[gfy]: // 	Flawed Topaz
-//ItemDisplay[gfb]: // 	Flawed Sapphire
-//ItemDisplay[gfg]: // 	Flawed Emerald
-//ItemDisplay[gfr]: // 	Flawed Ruby
-//ItemDisplay[gfw]: // 	Flawed Diamond
-//ItemDisplay[skf]: // 	Flawed Skull
+ItemDisplay[gfv]: // 	Flawed Amethyst
+ItemDisplay[gfy]: // 	Flawed Topaz
+ItemDisplay[gfb]: // 	Flawed Sapphire
+ItemDisplay[gfg]: // 	Flawed Emerald
+ItemDisplay[gfr]: // 	Flawed Ruby
+ItemDisplay[gfw]: // 	Flawed Diamond
+ItemDisplay[skf]: // 	Flawed Skull
 //─────────────────────────────────────────────────
-//ItemDisplay[gsv]: // 	Amethyst
-//ItemDisplay[gsy]: // 	Topaz
-//ItemDisplay[gsb]: // 	Sapphire
-//ItemDisplay[gsg]: // 	Emerald
-//ItemDisplay[gsr]: // 	Ruby
-//ItemDisplay[gsw]: // 	Diamond
-//ItemDisplay[sku]: // 	Skull
+ItemDisplay[gsv]: // 	Amethyst
+ItemDisplay[gsy]: // 	Topaz
+ItemDisplay[gsb]: // 	Sapphire
+ItemDisplay[gsg]: // 	Emerald
+ItemDisplay[gsr]: // 	Ruby
+ItemDisplay[gsw]: // 	Diamond
+ItemDisplay[sku]: // 	Skull
 //─────────────────────────────────────────────────
-//ItemDisplay[gzv]: // 	Flawless Amethyst
-//ItemDisplay[gly]: // 	Flawless Topaz
-//ItemDisplay[glb]: // 	Flawless Sapphire
-//ItemDisplay[glg]: // 	Flawless Emerald
-//ItemDisplay[glr]: // 	Flawless Ruby
-//ItemDisplay[glw]: // 	Flawless Diamond
-//ItemDisplay[skl]: %ORANGE%Skull
+ItemDisplay[gzv]: // 	Flawless Amethyst
+ItemDisplay[gly]: // 	Flawless Topaz
+ItemDisplay[glb]: // 	Flawless Sapphire
+ItemDisplay[glg]: // 	Flawless Emerald
+ItemDisplay[glr]: // 	Flawless Ruby
+ItemDisplay[glw]: // 	Flawless Diamond
+ItemDisplay[skl]: %ORANGE%Skull
 //─────────────────────────────────────────────────
 ItemDisplay[gpv]: %ORANGE%P %PURPLE%AMETHYST
 ItemDisplay[gpw]: %ORANGE%P %WHITE%DIAMOND
@@ -114,51 +114,51 @@ ItemDisplay[gpy]: %ORANGE%P %YELLOW%TOPAZ
 ItemDisplay[skz]: %ORANGE%P %TAN%SKULL
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Potions  ███████ //
-//ItemDisplay[hp1]: //	Minor Healing Potion
-//ItemDisplay[hp2]: // 	Light Healing Potion
-//ItemDisplay[hp3]: // 	Healing Potion
-//ItemDisplay[hp4]: // 	Greater Healing Potion
+ItemDisplay[hp1]: //	Minor Healing Potion
+ItemDisplay[hp2]: // 	Light Healing Potion
+ItemDisplay[hp3]: // 	Healing Potion
+ItemDisplay[hp4]: // 	Greater Healing Potion
 ItemDisplay[hp5]: %RED%!%WHITE%H+
-//ItemDisplay[mp1]: // 	Minor Mana Potion
-//ItemDisplay[mp2]: // 	Light Mana Potion
-//ItemDisplay[mp3]: // 	Mana Potion
-//ItemDisplay[mp4]: // 	Greater Mana Potion
+ItemDisplay[mp1]: // 	Minor Mana Potion
+ItemDisplay[mp2]: // 	Light Mana Potion
+ItemDisplay[mp3]: // 	Mana Potion
+ItemDisplay[mp4]: // 	Greater Mana Potion
 ItemDisplay[mp5]:  %BLUE%!%WHITE%M+
-//ItemDisplay[rvs]: // 	Rejuv Potion
+ItemDisplay[rvs]: // 	Rejuv Potion
 ItemDisplay[rvl]: %PURPLE%R %WHITE%70%
-//ItemDisplay[wms]: // 	Thawing Potion
-//ItemDisplay[vps]: // 	Stamina Potion
-//ItemDisplay[yps]: // 	Antidote Potion
+ItemDisplay[wms]: // 	Thawing Potion
+ItemDisplay[vps]: // 	Stamina Potion
+ItemDisplay[yps]: // 	Antidote Potion
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Throw Potions  ███████ //
-//ItemDisplay[gps]: // 	Rancid Gas Potion
-//ItemDisplay[ops]: // 	Oil Potion
-//ItemDisplay[gpm]: // 	Choking Gas Potion
-//ItemDisplay[opm]: // 	Exploding Potion
-//ItemDisplay[gpl]: // 	Strangling Gas Potion
-//ItemDisplay[opl]: // 	Fulminating Potion
+ItemDisplay[gps]: // 	Rancid Gas Potion
+ItemDisplay[ops]: // 	Oil Potion
+ItemDisplay[gpm]: // 	Choking Gas Potion
+ItemDisplay[opm]: // 	Exploding Potion
+ItemDisplay[gpl]: // 	Strangling Gas Potion
+ItemDisplay[opl]: // 	Fulminating Potion
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Charms  ███████ //
 ItemDisplay[cm1]: %NAME%%WHITE% [L%ILVL%]
-//ItemDisplay[cm2]: // 	Large Charm
+ItemDisplay[cm2]: // 	Large Charm
 ItemDisplay[cm3]: %NAME%%WHITE% [L%ILVL%]
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Runes  ███████ //
-//ItemDisplay[r01]: // 	El Rune
-//ItemDisplay[r02]: // 	Eld Rune
-//ItemDisplay[r03]: // 	Tir Rune
-//ItemDisplay[r04]: // 	Nef Rune
-//ItemDisplay[r05]: // 	Eth Rune
-//ItemDisplay[r06]: // 	Ith Rune
-//ItemDisplay[r07]: // 	Tal Rune
-//ItemDisplay[r08]: // 	Ral Rune
-//ItemDisplay[r09]: // 	Ort Rune
-//ItemDisplay[r10]: // 	Thul Rune
-//ItemDisplay[r11]: // 	Amn Rune
-//ItemDisplay[r12]: // 	Sol Rune
-//ItemDisplay[r13]: // 	Shael Rune
-//ItemDisplay[r14]: // 	Dol Rune
-//ItemDisplay[r15]: // 	Hel Rune
+ItemDisplay[r01]: // 	El Rune
+ItemDisplay[r02]: // 	Eld Rune
+ItemDisplay[r03]: // 	Tir Rune
+ItemDisplay[r04]: // 	Nef Rune
+ItemDisplay[r05]: // 	Eth Rune
+ItemDisplay[r06]: // 	Ith Rune
+ItemDisplay[r07]: // 	Tal Rune
+ItemDisplay[r08]: // 	Ral Rune
+ItemDisplay[r09]: // 	Ort Rune
+ItemDisplay[r10]: // 	Thul Rune
+ItemDisplay[r11]: // 	Amn Rune
+ItemDisplay[r12]: // 	Sol Rune
+ItemDisplay[r13]: // 	Shael Rune
+ItemDisplay[r14]: // 	Dol Rune
+ItemDisplay[r15]: // 	Hel Rune
 ItemDisplay[r16]: %TAN%%RUNENAME% [%RUNENUM%] 
 //17-23
 ItemDisplay[r17]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
@@ -181,379 +181,379 @@ ItemDisplay[r32]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED%
 ItemDisplay[r33]: %PURPLE% OOOOO %RED%%RUNENAME%%PURPLE% OOOOO [%RUNENUM%] %RED
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Wirt's Leg  ███████ //
-//ItemDisplay[leg]: // 	Wirt's Leg
+ItemDisplay[leg]: // 	Wirt's Leg
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║ //////////////////////////////////  ▬▬▬▬▬ SET ITEMS ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // (The !ID code means don't include if item is identified)
-//ItemDisplay[SET !ID rin]: // Angelic Halo and Cathan's Seal
-//ItemDisplay[SET !ID rng]: // Angelic Mantle
-//ItemDisplay[SET !ID sbr]: // Angelic Sickle
-//ItemDisplay[SET !ID wst]: // Arcanna's Deathwand
-//ItemDisplay[SET !ID ltp]: // Arcanna's Flesh
-//ItemDisplay[SET !ID skp]: // Arcanna's Head
-//ItemDisplay[SET !ID vbl]: // Arctic Binding
-//ItemDisplay[SET !ID qui]: // Arctic Furs
-//ItemDisplay[SET !ID swb]: // Arctic Horn
-//ItemDisplay[SET !ID tgl]: // Arctic Mitts and Iratha's Cuff
-//ItemDisplay[SET !ID 2ax]: // Berserker's Hatchet
-//ItemDisplay[SET !ID spl]: // Berserker's Hauberk
-//ItemDisplay[SET !ID hlm]: // Berserker's Headgear
-//ItemDisplay[SET !ID chn]: // Cathan's Mesh
-//ItemDisplay[SET !ID bst]: // Cathan's Rule
-//ItemDisplay[SET !ID msk]: // Cathan's Visage
-//ItemDisplay[SET !ID gsc]: // Civerb's Cudgel
-//ItemDisplay[SET !ID lrg]: // Civerb's Ward
-//ItemDisplay[SET !ID sml]: // Cleglaw's Claw
-//ItemDisplay[SET !ID mgl]: // Cleglaw's Pincers
-//ItemDisplay[SET !ID lsd]: // Cleglaw's Tooth
-//ItemDisplay[SET !ID lbl]: // Death's Guard
-//ItemDisplay[SET !ID lgl]: // Death's Hand
-//ItemDisplay[SET !ID wsd]: // Death's Touch
-//ItemDisplay[SET !ID buc]: // Hsarus' Iron Fist
-//ItemDisplay[SET !ID mbt]: // Hsarus' Iron Heel
-//ItemDisplay[SET !ID mbl]: // Hsarus' Iron Stay and Hwanin's Blessing
-//ItemDisplay[SET !ID cap]: // Infernal Cranium and Sander's Paragon
-//ItemDisplay[SET !ID tbl]: // Infernal Sign and Iratha's Cord
-//ItemDisplay[SET !ID gwn]: // Infernal Torch
-//ItemDisplay[SET !ID crn]: // Iratha's Coil and Milabrega's Diadem
-//ItemDisplay[SET !ID brs]: // Isenhart's Case
-//ItemDisplay[SET !ID fhl]: // Isenhart's Horns
-//ItemDisplay[SET !ID bsd]: // Isenhart's Lightbrand
-//ItemDisplay[SET !ID gts]: // Isenhart's Parry
-//ItemDisplay[SET !ID kit]: // Milabrega's Orb
-//ItemDisplay[SET !ID aar]: // Milabrega's Robe
-//ItemDisplay[SET !ID wsp]: // Milabrega's Rod
-//ItemDisplay[SET !ID hgl]: // Sigon's Gage
-//ItemDisplay[SET !ID tow]: // Sigon's Guard
-//ItemDisplay[SET !ID hbt]: // Sigon's Sabot
-//ItemDisplay[SET !ID gth]: // Sigon's Shelter
-//ItemDisplay[SET !ID ghm]: // Sigon's Visor
-//ItemDisplay[SET !ID hbl]: // Sigon's Wrap
-//ItemDisplay[SET !ID mpi]: // Ignore Tancred's Crowbill
-//ItemDisplay[SET !ID lbt]: // Tancred's Hobnails
-//ItemDisplay[SET !ID bhm]: // Tancred's Skull
-//ItemDisplay[SET !ID ful]: // Tancred's Spine
-//ItemDisplay[SET !ID lea]: // Vidala's Ambush
-//ItemDisplay[SET !ID lbb]: // Vidala's Barb
-//ItemDisplay[SET !ID tbt]: // Vidala's Fetlock
-//ItemDisplay[SET !ID vbt]: // Cow King's Hooves
-//ItemDisplay[SET !ID xap]: // Cow King's Horns
-//ItemDisplay[SET !ID stu]: // Cow King's Hide
-//ItemDisplay[SET !ID uui]: // Dark Adherent
-//ItemDisplay[SET !ID ulg]: // Laying of Hands
-//ItemDisplay[SET !ID umc]: // Credendum
-//ItemDisplay[SET !ID xlb]: // Rite of Passage
-//ItemDisplay[SET !ID uhm]: // Ondal's Mighty
-//ItemDisplay[SET !ID 7ma]: // Dangoon's Teaching
-//ItemDisplay[SET !ID xrs]: // Haemosu's Adamant
-//ItemDisplay[SET !ID uts]: // Taebaek's Glory
-//ItemDisplay[SET !ID 6cs]: // Naj's Puzzler
-//ItemDisplay[SET !ID ult]: // Naj's Light Plate
-//ItemDisplay[SET !ID ci0]: // Naj's Circlet
-//ItemDisplay[SET !ID xhm]: // Guillaume's Face
-//ItemDisplay[SET !ID xml]: // Whitstan's Guard
-//ItemDisplay[SET !ID xvg]: // Magnus' Skin
-//ItemDisplay[SET !ID ztb]: // Wilhelm's Pride
-//ItemDisplay[SET !ID bwn]: // Sander's Superstition
-//ItemDisplay[SET !ID vgl]: // Sander's Taboo
-//ItemDisplay[SET !ID vbt]: // Sander's Riprap
-//ItemDisplay[SET !ID 7ls]: // Sazabi's Cobalt Redeemer
-//ItemDisplay[SET !ID upl]: // Sazabi's Ghost Liberator
-//ItemDisplay[SET !ID xhl]: // Sazabi's Mental Sheath
-//ItemDisplay[SET !ID 9mt]: // Aldur's Rhythm
-//ItemDisplay[SET !ID uul]: // Aldur's Deception
-//ItemDisplay[SET !ID dr8]: // Aldur's Stony Gaze
+ItemDisplay[SET !ID rin]: // Angelic Halo and Cathan's Seal
+ItemDisplay[SET !ID rng]: // Angelic Mantle
+ItemDisplay[SET !ID sbr]: // Angelic Sickle
+ItemDisplay[SET !ID wst]: // Arcanna's Deathwand
+ItemDisplay[SET !ID ltp]: // Arcanna's Flesh
+ItemDisplay[SET !ID skp]: // Arcanna's Head
+ItemDisplay[SET !ID vbl]: // Arctic Binding
+ItemDisplay[SET !ID qui]: // Arctic Furs
+ItemDisplay[SET !ID swb]: // Arctic Horn
+ItemDisplay[SET !ID tgl]: // Arctic Mitts and Iratha's Cuff
+ItemDisplay[SET !ID 2ax]: // Berserker's Hatchet
+ItemDisplay[SET !ID spl]: // Berserker's Hauberk
+ItemDisplay[SET !ID hlm]: // Berserker's Headgear
+ItemDisplay[SET !ID chn]: // Cathan's Mesh
+ItemDisplay[SET !ID bst]: // Cathan's Rule
+ItemDisplay[SET !ID msk]: // Cathan's Visage
+ItemDisplay[SET !ID gsc]: // Civerb's Cudgel
+ItemDisplay[SET !ID lrg]: // Civerb's Ward
+ItemDisplay[SET !ID sml]: // Cleglaw's Claw
+ItemDisplay[SET !ID mgl]: // Cleglaw's Pincers
+ItemDisplay[SET !ID lsd]: // Cleglaw's Tooth
+ItemDisplay[SET !ID lbl]: // Death's Guard
+ItemDisplay[SET !ID lgl]: // Death's Hand
+ItemDisplay[SET !ID wsd]: // Death's Touch
+ItemDisplay[SET !ID buc]: // Hsarus' Iron Fist
+ItemDisplay[SET !ID mbt]: // Hsarus' Iron Heel
+ItemDisplay[SET !ID mbl]: // Hsarus' Iron Stay and Hwanin's Blessing
+ItemDisplay[SET !ID cap]: // Infernal Cranium and Sander's Paragon
+ItemDisplay[SET !ID tbl]: // Infernal Sign and Iratha's Cord
+ItemDisplay[SET !ID gwn]: // Infernal Torch
+ItemDisplay[SET !ID crn]: // Iratha's Coil and Milabrega's Diadem
+ItemDisplay[SET !ID brs]: // Isenhart's Case
+ItemDisplay[SET !ID fhl]: // Isenhart's Horns
+ItemDisplay[SET !ID bsd]: // Isenhart's Lightbrand
+ItemDisplay[SET !ID gts]: // Isenhart's Parry
+ItemDisplay[SET !ID kit]: // Milabrega's Orb
+ItemDisplay[SET !ID aar]: // Milabrega's Robe
+ItemDisplay[SET !ID wsp]: // Milabrega's Rod
+ItemDisplay[SET !ID hgl]: // Sigon's Gage
+ItemDisplay[SET !ID tow]: // Sigon's Guard
+ItemDisplay[SET !ID hbt]: // Sigon's Sabot
+ItemDisplay[SET !ID gth]: // Sigon's Shelter
+ItemDisplay[SET !ID ghm]: // Sigon's Visor
+ItemDisplay[SET !ID hbl]: // Sigon's Wrap
+ItemDisplay[SET !ID mpi]: // Ignore Tancred's Crowbill
+ItemDisplay[SET !ID lbt]: // Tancred's Hobnails
+ItemDisplay[SET !ID bhm]: // Tancred's Skull
+ItemDisplay[SET !ID ful]: // Tancred's Spine
+ItemDisplay[SET !ID lea]: // Vidala's Ambush
+ItemDisplay[SET !ID lbb]: // Vidala's Barb
+ItemDisplay[SET !ID tbt]: // Vidala's Fetlock
+ItemDisplay[SET !ID vbt]: // Cow King's Hooves
+ItemDisplay[SET !ID xap]: // Cow King's Horns
+ItemDisplay[SET !ID stu]: // Cow King's Hide
+ItemDisplay[SET !ID uui]: // Dark Adherent
+ItemDisplay[SET !ID ulg]: // Laying of Hands
+ItemDisplay[SET !ID umc]: // Credendum
+ItemDisplay[SET !ID xlb]: // Rite of Passage
+ItemDisplay[SET !ID uhm]: // Ondal's Mighty
+ItemDisplay[SET !ID 7ma]: // Dangoon's Teaching
+ItemDisplay[SET !ID xrs]: // Haemosu's Adamant
+ItemDisplay[SET !ID uts]: // Taebaek's Glory
+ItemDisplay[SET !ID 6cs]: // Naj's Puzzler
+ItemDisplay[SET !ID ult]: // Naj's Light Plate
+ItemDisplay[SET !ID ci0]: // Naj's Circlet
+ItemDisplay[SET !ID xhm]: // Guillaume's Face
+ItemDisplay[SET !ID xml]: // Whitstan's Guard
+ItemDisplay[SET !ID xvg]: // Magnus' Skin
+ItemDisplay[SET !ID ztb]: // Wilhelm's Pride
+ItemDisplay[SET !ID bwn]: // Sander's Superstition
+ItemDisplay[SET !ID vgl]: // Sander's Taboo
+ItemDisplay[SET !ID vbt]: // Sander's Riprap
+ItemDisplay[SET !ID 7ls]: // Sazabi's Cobalt Redeemer
+ItemDisplay[SET !ID upl]: // Sazabi's Ghost Liberator
+ItemDisplay[SET !ID xhl]: // Sazabi's Mental Sheath
+ItemDisplay[SET !ID 9mt]: // Aldur's Rhythm
+ItemDisplay[SET !ID uul]: // Aldur's Deception
+ItemDisplay[SET !ID dr8]: // Aldur's Stony Gaze
 ItemDisplay[SET !ID xtb]: %RED%O %GREEN%%NAME% %DGREEN%Aldur's %RED%Oe
-//ItemDisplay[SET !ID 7gd]: // Bul-Kathos' Sacred Charge
-//ItemDisplay[SET !ID 7wd]: // Bul-Kathos' Tribal Guardian
-//ItemDisplay[SET !ID 7ws]: // Griswold's Redemption
-//ItemDisplay[SET !ID xar]: // Griswold's Heart
-//ItemDisplay[SET !ID paf]: // Griswold's Honor
-//ItemDisplay[SET !ID urn]: // Griswold's Valor
-//ItemDisplay[SET !ID xrn]: // Hwanin's Splendor Grand Crown
-//ItemDisplay[SET !ID 9vo]: // Hwanin's Justice Bill
-//ItemDisplay[SET !ID xcl]: // Hwanin's Refuge Tigulated Mail
-//ItemDisplay[SET !ID mbl]: // Hwanin's Blessing belt
-//ItemDisplay[SET !ID 7m7]: // Immortal King's Stone Crusher
-//ItemDisplay[SET !ID uar]: // Immortal King's Soul Cage
-//ItemDisplay[SET !ID ba5]: // Immortal King's Will
-//ItemDisplay[SET !ID xhg]: // Immortal King's Forge
-//ItemDisplay[SET !ID zhb]: // Immortal King's Detail
-//ItemDisplay[SET !ID xhb]: // Immortal King's Pillar
-//ItemDisplay[SET !ID amc]: // M'avina's Caster
-//ItemDisplay[SET !ID uld]: // M'avina's Embrace
-//ItemDisplay[SET !ID ci3]: // M'avina's True Sight
-//ItemDisplay[SET !ID xtg]: // M'avina's Icy Clutch
-//ItemDisplay[SET !ID zvb]: // M'avina's Tenet
-//ItemDisplay[SET !ID 7qr]: // Natalya's Mark
-//ItemDisplay[SET !ID ucl]: // Natalya's Shadow
-//ItemDisplay[SET !ID xh9]: // Natalya's Totem
-//ItemDisplay[SET !ID xmb]: // Natalya's Soul
+ItemDisplay[SET !ID 7gd]: // Bul-Kathos' Sacred Charge
+ItemDisplay[SET !ID 7wd]: // Bul-Kathos' Tribal Guardian
+ItemDisplay[SET !ID 7ws]: // Griswold's Redemption
+ItemDisplay[SET !ID xar]: // Griswold's Heart
+ItemDisplay[SET !ID paf]: // Griswold's Honor
+ItemDisplay[SET !ID urn]: // Griswold's Valor
+ItemDisplay[SET !ID xrn]: // Hwanin's Splendor Grand Crown
+ItemDisplay[SET !ID 9vo]: // Hwanin's Justice Bill
+ItemDisplay[SET !ID xcl]: // Hwanin's Refuge Tigulated Mail
+ItemDisplay[SET !ID mbl]: // Hwanin's Blessing belt
+ItemDisplay[SET !ID 7m7]: // Immortal King's Stone Crusher
+ItemDisplay[SET !ID uar]: // Immortal King's Soul Cage
+ItemDisplay[SET !ID ba5]: // Immortal King's Will
+ItemDisplay[SET !ID xhg]: // Immortal King's Forge
+ItemDisplay[SET !ID zhb]: // Immortal King's Detail
+ItemDisplay[SET !ID xhb]: // Immortal King's Pillar
+ItemDisplay[SET !ID amc]: // M'avina's Caster
+ItemDisplay[SET !ID uld]: // M'avina's Embrace
+ItemDisplay[SET !ID ci3]: // M'avina's True Sight
+ItemDisplay[SET !ID xtg]: // M'avina's Icy Clutch
+ItemDisplay[SET !ID zvb]: // M'avina's Tenet
+ItemDisplay[SET !ID 7qr]: // Natalya's Mark
+ItemDisplay[SET !ID ucl]: // Natalya's Shadow
+ItemDisplay[SET !ID xh9]: // Natalya's Totem
+ItemDisplay[SET !ID xmb]: // Natalya's Soul
 ItemDisplay[SET !ID oba]: %RED%O %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%Ot
 ItemDisplay[SET !ID uth]: %PURPLE%O %GREEN%%NAME% %DGREEN%Tal Rasha's %PURPLE%O
-//ItemDisplay[SET !ID xsk]: // Tal Rasha's Horadric Crest
-//ItemDisplay[SET !ID zmb]: // Tal Rasha's Fine-Spun Cloth
+ItemDisplay[SET !ID xsk]: // Tal Rasha's Horadric Crest
+ItemDisplay[SET !ID zmb]: // Tal Rasha's Fine-Spun Cloth
 ItemDisplay[SET !ID amu]: %RED%O %GREEN%%NAME% %RED%O
-//ItemDisplay[SET !ID xul]: // Trang-Oul's Scales
-//ItemDisplay[SET !ID ne9]: // Trang-Oul's Wing
-//ItemDisplay[SET !ID uh9]: // Trang-Oul's Guise
+ItemDisplay[SET !ID xul]: // Trang-Oul's Scales
+ItemDisplay[SET !ID ne9]: // Trang-Oul's Wing
+ItemDisplay[SET !ID uh9]: // Trang-Oul's Guise
 ItemDisplay[SET !ID xmg]: %RED%O %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%O
-//ItemDisplay[SET !ID utc]: // Trang-Oul's Girth
+ItemDisplay[SET !ID utc]: // Trang-Oul's Girth
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 //╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
 //║ ////////////////////////////////  ▬▬▬▬▬ UNIQUE ITEMS ▬▬▬▬▬ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ ║
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Axes  ███████ //
-//ItemDisplay[UNI !ID hax]: // 	The Gnasher Hand Axe
-//ItemDisplay[UNI !ID axe]: // 	Deathspade Axe
-//ItemDisplay[UNI !ID 2ax]: // 	Bladebone Double Axe
-//ItemDisplay[UNI !ID mpi]: // 	Skull Splitter Military Pick
-//ItemDisplay[UNI !ID wax]: // 	Rakescar War Axe
-//ItemDisplay[UNI !ID lax]: // 	Axe of Fechmar Large Axe
-//ItemDisplay[UNI !ID bax]: // 	Goreshovel Broad Axe
-//ItemDisplay[UNI !ID btx]: // 	The Chieftain Battle Axe
-//ItemDisplay[UNI !ID gax]: // 	Brainhew Great Axe
-//ItemDisplay[UNI !ID gix]: // 	Humongous Giant Axe
+ItemDisplay[UNI !ID hax]: // 	The Gnasher Hand Axe
+ItemDisplay[UNI !ID axe]: // 	Deathspade Axe
+ItemDisplay[UNI !ID 2ax]: // 	Bladebone Double Axe
+ItemDisplay[UNI !ID mpi]: // 	Skull Splitter Military Pick
+ItemDisplay[UNI !ID wax]: // 	Rakescar War Axe
+ItemDisplay[UNI !ID lax]: // 	Axe of Fechmar Large Axe
+ItemDisplay[UNI !ID bax]: // 	Goreshovel Broad Axe
+ItemDisplay[UNI !ID btx]: // 	The Chieftain Battle Axe
+ItemDisplay[UNI !ID gax]: // 	Brainhew Great Axe
+ItemDisplay[UNI !ID gix]: // 	Humongous Giant Axe
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9ha]: // 	Coldkill Hatchet
-//ItemDisplay[UNI !ID 9ax]: // 	Butcher's Pupil Cleaver
-//ItemDisplay[UNI !ID 92a]: // 	Islestrike Twin Axe
-//ItemDisplay[UNI !ID 9mp]: // 	Pompeii's Wrath Crowbill
-//ItemDisplay[UNI !ID 9wa]: // 	Guardian Naga Naga
-//ItemDisplay[UNI !ID 9la]: // 	Warlord's Trust Military Axe
-//ItemDisplay[UNI !ID 9ba]: // 	Spellsteel Bearded Axe
-//ItemDisplay[UNI !ID 9bt]: // 	Stormrider Tabar
-//ItemDisplay[UNI !ID 9ga]: // 	Boneslayer Blade Gothic Axe
-//ItemDisplay[UNI !ID 9gi]: // 	The Minotaur Ancient Axe
+ItemDisplay[UNI !ID 9ha]: // 	Coldkill Hatchet
+ItemDisplay[UNI !ID 9ax]: // 	Butcher's Pupil Cleaver
+ItemDisplay[UNI !ID 92a]: // 	Islestrike Twin Axe
+ItemDisplay[UNI !ID 9mp]: // 	Pompeii's Wrath Crowbill
+ItemDisplay[UNI !ID 9wa]: // 	Guardian Naga Naga
+ItemDisplay[UNI !ID 9la]: // 	Warlord's Trust Military Axe
+ItemDisplay[UNI !ID 9ba]: // 	Spellsteel Bearded Axe
+ItemDisplay[UNI !ID 9bt]: // 	Stormrider Tabar
+ItemDisplay[UNI !ID 9ga]: // 	Boneslayer Blade Gothic Axe
+ItemDisplay[UNI !ID 9gi]: // 	The Minotaur Ancient Axe
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7ha]: // 	Razor's Edge Tomahawk
-//ItemDisplay[UNI !ID 72a]: // 	Rune Master Ettin Axe
-//ItemDisplay[UNI !ID 7mp]: // 	Cranebeak War Spike
-//ItemDisplay[UNI !ID 7wa]: // 	Death Cleaver Berserker Axe
-//ItemDisplay[UNI !ID 7ba]: // 	Ethereal Edge Silver Edged Axe
-//ItemDisplay[UNI !ID 7bt]: // 	Hellslayer Decapitator
-//ItemDisplay[UNI !ID 7ga]: // 	Messerschmidt's Reaver Champion Axe
-//ItemDisplay[UNI !ID 7gi]: // 	Executioner's Justice Glorious Axe
+ItemDisplay[UNI !ID 7ha]: // 	Razor's Edge Tomahawk
+ItemDisplay[UNI !ID 72a]: // 	Rune Master Ettin Axe
+ItemDisplay[UNI !ID 7mp]: // 	Cranebeak War Spike
+ItemDisplay[UNI !ID 7wa]: // 	Death Cleaver Berserker Axe
+ItemDisplay[UNI !ID 7ba]: // 	Ethereal Edge Silver Edged Axe
+ItemDisplay[UNI !ID 7bt]: // 	Hellslayer Decapitator
+ItemDisplay[UNI !ID 7ga]: // 	Messerschmidt's Reaver Champion Axe
+ItemDisplay[UNI !ID 7gi]: // 	Executioner's Justice Glorious Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Wands  ███████ //
-//ItemDisplay[UNI !ID wnd]: // 	Torch of Iro Wand
-//ItemDisplay[UNI !ID ywn]: // 	Maelstrom Yew Wand
-//ItemDisplay[UNI !ID bwn]: // 	Gravenspine Bone Wand
-//ItemDisplay[UNI !ID gwn]: // 	Ume's Lament Grim Wand
+ItemDisplay[UNI !ID wnd]: // 	Torch of Iro Wand
+ItemDisplay[UNI !ID ywn]: // 	Maelstrom Yew Wand
+ItemDisplay[UNI !ID bwn]: // 	Gravenspine Bone Wand
+ItemDisplay[UNI !ID gwn]: // 	Ume's Lament Grim Wand
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9wn]: // 	Suicide Branch Burnt Wand
-//ItemDisplay[UNI !ID 9yw]: // 	Carin Shard Petrified Wand
-//ItemDisplay[UNI !ID 9bw]: // 	Arm of King Leoric Tomb Wand
-//ItemDisplay[UNI !ID 9gw]: // 	Blackhand Key Grave Wand
+ItemDisplay[UNI !ID 9wn]: // 	Suicide Branch Burnt Wand
+ItemDisplay[UNI !ID 9yw]: // 	Carin Shard Petrified Wand
+ItemDisplay[UNI !ID 9bw]: // 	Arm of King Leoric Tomb Wand
+ItemDisplay[UNI !ID 9gw]: // 	Blackhand Key Grave Wand
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7bw]: // 	Boneshade Lich Wand
-//ItemDisplay[UNI !ID 7gw]: // 	Death's Web Unearthed Wand
+ItemDisplay[UNI !ID 7bw]: // 	Boneshade Lich Wand
+ItemDisplay[UNI !ID 7gw]: // 	Death's Web Unearthed Wand
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Maces  ███████ //
-//ItemDisplay[UNI !ID clb]: // 	Felloak Club
-//ItemDisplay[UNI !ID spc]: // 	Stoutnail Spiked Club
-//ItemDisplay[UNI !ID mac]: // 	Crushflange Mace
-//ItemDisplay[UNI !ID mst]: // 	Bloodrise Morning Star
-//ItemDisplay[UNI !ID fla]: // 	The General's Tan Do Li Ga Flail
-//ItemDisplay[UNI !ID whm]: // 	Ironstone War Hammer
-//ItemDisplay[UNI !ID mau]: // 	Bonesnap Maul
-//ItemDisplay[UNI !ID gma]: // 	Steeldriver Great Maul
+ItemDisplay[UNI !ID clb]: // 	Felloak Club
+ItemDisplay[UNI !ID spc]: // 	Stoutnail Spiked Club
+ItemDisplay[UNI !ID mac]: // 	Crushflange Mace
+ItemDisplay[UNI !ID mst]: // 	Bloodrise Morning Star
+ItemDisplay[UNI !ID fla]: // 	The General's Tan Do Li Ga Flail
+ItemDisplay[UNI !ID whm]: // 	Ironstone War Hammer
+ItemDisplay[UNI !ID mau]: // 	Bonesnap Maul
+ItemDisplay[UNI !ID gma]: // 	Steeldriver Great Maul
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9cl]: // 	Dark Clan Crusher Cudgel
-//ItemDisplay[UNI !ID 9sp]: // 	Fleshredner Barbed Club
-//ItemDisplay[UNI !ID 9ma]: // 	Sureshrill Frost Flanged Mace
-//ItemDisplay[UNI !ID 9mt]: // 	Moonfall Jagged Star
-//ItemDisplay[UNI !ID 9fl]: // 	Baezil's Vortex Knout
-//ItemDisplay[UNI !ID 9wh]: // 	Earthshaker Battle Hammer
-//ItemDisplay[UNI !ID 9m9]: // 	Bloodtree Stump War Club
-//ItemDisplay[UNI !ID 9gm]: // 	The Gavel of Pain Martel de Fer
+ItemDisplay[UNI !ID 9cl]: // 	Dark Clan Crusher Cudgel
+ItemDisplay[UNI !ID 9sp]: // 	Fleshredner Barbed Club
+ItemDisplay[UNI !ID 9ma]: // 	Sureshrill Frost Flanged Mace
+ItemDisplay[UNI !ID 9mt]: // 	Moonfall Jagged Star
+ItemDisplay[UNI !ID 9fl]: // 	Baezil's Vortex Knout
+ItemDisplay[UNI !ID 9wh]: // 	Earthshaker Battle Hammer
+ItemDisplay[UNI !ID 9m9]: // 	Bloodtree Stump War Club
+ItemDisplay[UNI !ID 9gm]: // 	The Gavel of Pain Martel de Fer
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7cl]: // 	Nord's Tenderizer Truncheon
-//ItemDisplay[UNI !ID 7sp]: // 	Demon Limb Tyrant Club
-//ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
-//ItemDisplay[UNI !ID 7fl]: // 	Horizon's Tornado OR Stormlash Scourge
-//ItemDisplay[UNI !ID 7wh]: // 	Shaefer's Hammer OR Stone Crusher Legendary Mallet
-//ItemDisplay[UNI !ID 7m7]: // 	Windhammer Ogre Maul
-//ItemDisplay[UNI !ID 7gm]: // 	Earth Shifter OR The Cranium Basher Thunder Maul
+ItemDisplay[UNI !ID 7cl]: // 	Nord's Tenderizer Truncheon
+ItemDisplay[UNI !ID 7sp]: // 	Demon Limb Tyrant Club
+ItemDisplay[UNI !ID 7mt]: // 	Baranar's Star Devil Star
+ItemDisplay[UNI !ID 7fl]: // 	Horizon's Tornado OR Stormlash Scourge
+ItemDisplay[UNI !ID 7wh]: // 	Shaefer's Hammer OR Stone Crusher Legendary Mallet
+ItemDisplay[UNI !ID 7m7]: // 	Windhammer Ogre Maul
+ItemDisplay[UNI !ID 7gm]: // 	Earth Shifter OR The Cranium Basher Thunder Maul
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Swords  ███████ //
-//ItemDisplay[UNI !ID ssd]: // 	Rixot's Keen Short Sword
-//ItemDisplay[UNI !ID scm]: // 	Blood Crescent Scimitar
-//ItemDisplay[UNI !ID sbr]: // 	Skewer of Krintiz Sabre
-//ItemDisplay[UNI !ID flc]: // 	Gleamscyche Falchion
-//ItemDisplay[UNI !ID bsd]: // 	Gridwold's Edge Broad Sword
-//ItemDisplay[UNI !ID lsd]: // 	Hellplague Long Sword
-//ItemDisplay[UNI !ID wsd]: // 	Culwen's Point War Sword
-//ItemDisplay[UNI !ID 2hs]: // 	Shadowfang Two-Handed Sword
-//ItemDisplay[UNI !ID clm]: // 	Souldflay Claymore
-//ItemDisplay[UNI !ID gis]: // 	Kinemil's Awl Giant Sword
-//ItemDisplay[UNI !ID bsw]: // 	Blacktongue Bastard Sword
-//ItemDisplay[UNI !ID flb]: // 	Ripsaw Flamberge
-//ItemDisplay[UNI !ID gsd]: // 	The Patriarch Great Sword
+ItemDisplay[UNI !ID ssd]: // 	Rixot's Keen Short Sword
+ItemDisplay[UNI !ID scm]: // 	Blood Crescent Scimitar
+ItemDisplay[UNI !ID sbr]: // 	Skewer of Krintiz Sabre
+ItemDisplay[UNI !ID flc]: // 	Gleamscyche Falchion
+ItemDisplay[UNI !ID bsd]: // 	Gridwold's Edge Broad Sword
+ItemDisplay[UNI !ID lsd]: // 	Hellplague Long Sword
+ItemDisplay[UNI !ID wsd]: // 	Culwen's Point War Sword
+ItemDisplay[UNI !ID 2hs]: // 	Shadowfang Two-Handed Sword
+ItemDisplay[UNI !ID clm]: // 	Souldflay Claymore
+ItemDisplay[UNI !ID gis]: // 	Kinemil's Awl Giant Sword
+ItemDisplay[UNI !ID bsw]: // 	Blacktongue Bastard Sword
+ItemDisplay[UNI !ID flb]: // 	Ripsaw Flamberge
+ItemDisplay[UNI !ID gsd]: // 	The Patriarch Great Sword
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9ss]: // 	Bloodletter Gladius
-//ItemDisplay[UNI !ID 9sm]: // 	Coldsteel Eye Cutlass
-//ItemDisplay[UNI !ID 9sb]: // 	Hexfire Shamshir
-//ItemDisplay[UNI !ID 9fc]: // 	Blade of Ali Baba Tulwar
-//ItemDisplay[UNI !ID 9cr]: // 	Ginther's Rift Dimensional Blade
-//ItemDisplay[UNI !ID 9bs]: // 	Headstriker Battle Sword
-//ItemDisplay[UNI !ID 9ls]: // 	Plague Bearer Rune Sword
-//ItemDisplay[UNI !ID 9wd]: // 	The Atlantean Ancient Sword
-//ItemDisplay[UNI !ID 92h]: // 	Crainte Vomir Espadon
-//ItemDisplay[UNI !ID 9cm]: // 	Bing Sz Wang Dacian Falx
-//ItemDisplay[UNI !ID 9gs]: // 	The Vile Husk Tusk Sword
-//ItemDisplay[UNI !ID 9b9]: // 	Cloudcrack Gothic Sword
-//ItemDisplay[UNI !ID 9fb]: // 	Todesfaelle Flamme Zweihander
-//ItemDisplay[UNI !ID 9gd]: // 	Swordguard Executioner Sword
+ItemDisplay[UNI !ID 9ss]: // 	Bloodletter Gladius
+ItemDisplay[UNI !ID 9sm]: // 	Coldsteel Eye Cutlass
+ItemDisplay[UNI !ID 9sb]: // 	Hexfire Shamshir
+ItemDisplay[UNI !ID 9fc]: // 	Blade of Ali Baba Tulwar
+ItemDisplay[UNI !ID 9cr]: // 	Ginther's Rift Dimensional Blade
+ItemDisplay[UNI !ID 9bs]: // 	Headstriker Battle Sword
+ItemDisplay[UNI !ID 9ls]: // 	Plague Bearer Rune Sword
+ItemDisplay[UNI !ID 9wd]: // 	The Atlantean Ancient Sword
+ItemDisplay[UNI !ID 92h]: // 	Crainte Vomir Espadon
+ItemDisplay[UNI !ID 9cm]: // 	Bing Sz Wang Dacian Falx
+ItemDisplay[UNI !ID 9gs]: // 	The Vile Husk Tusk Sword
+ItemDisplay[UNI !ID 9b9]: // 	Cloudcrack Gothic Sword
+ItemDisplay[UNI !ID 9fb]: // 	Todesfaelle Flamme Zweihander
+ItemDisplay[UNI !ID 9gd]: // 	Swordguard Executioner Sword
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7sm]: // 	Djinn Slayer Ataghan
-//ItemDisplay[UNI !ID 7sb]: // 	Bloodmoon Elegant Blade
+ItemDisplay[UNI !ID 7sm]: // 	Djinn Slayer Ataghan
+ItemDisplay[UNI !ID 7sb]: // 	Bloodmoon Elegant Blade
 ItemDisplay[UNI !ID 7cr]: %RED%O %PURPLE%Lightsabre or Azurewrath %RED%O
-//ItemDisplay[UNI !ID 7ls]: // 	Frostwind Cryptic Sword
-//ItemDisplay[UNI !ID 7gs]: // 	FlameBellow Balrog Blade
-//ItemDisplay[UNI !ID 7b7]: // 	Doombringer Champion Sword
-//ItemDisplay[UNI !ID 7gd]: // 	The Grandfather Colossus Blade
+ItemDisplay[UNI !ID 7ls]: // 	Frostwind Cryptic Sword
+ItemDisplay[UNI !ID 7gs]: // 	FlameBellow Balrog Blade
+ItemDisplay[UNI !ID 7b7]: // 	Doombringer Champion Sword
+ItemDisplay[UNI !ID 7gd]: // 	The Grandfather Colossus Blade
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Daggers  ███████ //
-//ItemDisplay[UNI !ID dgr]: // 	Gull Dagger
-//ItemDisplay[UNI !ID dir]: // 	The Diggler Dirk
-//ItemDisplay[UNI !ID kri]: // 	The Jade Tan Do Kris
-//ItemDisplay[UNI !ID bld]: // 	Spectral Shard Blade
+ItemDisplay[UNI !ID dgr]: // 	Gull Dagger
+ItemDisplay[UNI !ID dir]: // 	The Diggler Dirk
+ItemDisplay[UNI !ID kri]: // 	The Jade Tan Do Kris
+ItemDisplay[UNI !ID bld]: // 	Spectral Shard Blade
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9dg]: // 	Spineripper Poignard
-//ItemDisplay[UNI !ID 9di]: // 	Heart Carver Rondel
-//ItemDisplay[UNI !ID 9kr]: // 	Blackbog's Sharp Cinquedeas
-//ItemDisplay[UNI !ID 9bl]: // 	Stormspike Stiletto
+ItemDisplay[UNI !ID 9dg]: // 	Spineripper Poignard
+ItemDisplay[UNI !ID 9di]: // 	Heart Carver Rondel
+ItemDisplay[UNI !ID 9kr]: // 	Blackbog's Sharp Cinquedeas
+ItemDisplay[UNI !ID 9bl]: // 	Stormspike Stiletto
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7dg]: // 	Wizardspike Bone Knife
-//ItemDisplay[UNI !ID 7kr]: // 	Fleshripper Fanged Knife
-//ItemDisplay[UNI !ID 7bl]: // 	Ghostflame Legend Spike
+ItemDisplay[UNI !ID 7dg]: // 	Wizardspike Bone Knife
+ItemDisplay[UNI !ID 7kr]: // 	Fleshripper Fanged Knife
+ItemDisplay[UNI !ID 7bl]: // 	Ghostflame Legend Spike
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Throwing  ███████ //
-//ItemDisplay[UNI !ID 9tk]: // 	Deathbit Battle Dart
-//ItemDisplay[UNI !ID 9ta]: // 	The Scalper Francisca
+ItemDisplay[UNI !ID 9tk]: // 	Deathbit Battle Dart
+ItemDisplay[UNI !ID 9ta]: // 	The Scalper Francisca
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7ta]: // 	Gimmershred Flying Axe
-//ItemDisplay[UNI !ID 7bk]: // 	Warshrike Winged Knife
-//ItemDisplay[UNI !ID 7b8]: // 	Lacerator Winged Axe
+ItemDisplay[UNI !ID 7ta]: // 	Gimmershred Flying Axe
+ItemDisplay[UNI !ID 7bk]: // 	Warshrike Winged Knife
+ItemDisplay[UNI !ID 7b8]: // 	Lacerator Winged Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Javelins  ███████ //
-//ItemDisplay[UNI !ID 7s7]: // 	Demon's Arch Balrog Spear
-//ItemDisplay[UNI !ID 7gl]: // 	Wraith Flight Ghost Glaive
-//ItemDisplay[UNI !ID 7ts]: // 	Gargoyle's Bite Winged Harpoon
+ItemDisplay[UNI !ID 7s7]: // 	Demon's Arch Balrog Spear
+ItemDisplay[UNI !ID 7gl]: // 	Wraith Flight Ghost Glaive
+ItemDisplay[UNI !ID 7ts]: // 	Gargoyle's Bite Winged Harpoon
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Spears  ███████ //
-//ItemDisplay[UNI !ID spr]: // 	The Dragon Chang Spear
-//ItemDisplay[UNI !ID tri]: // 	Razortine Trident
-//ItemDisplay[UNI !ID brn]: // 	Bloodthief Brandistock
-//ItemDisplay[UNI !ID spt]: // 	Lance of Yaggai Spetum
-//ItemDisplay[UNI !ID pik]: // 	The Tannr Gorerod Pike
+ItemDisplay[UNI !ID spr]: // 	The Dragon Chang Spear
+ItemDisplay[UNI !ID tri]: // 	Razortine Trident
+ItemDisplay[UNI !ID brn]: // 	Bloodthief Brandistock
+ItemDisplay[UNI !ID spt]: // 	Lance of Yaggai Spetum
+ItemDisplay[UNI !ID pik]: // 	The Tannr Gorerod Pike
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9sr]: // 	The Impaler War Spear
-//ItemDisplay[UNI !ID 9tr]: // 	Kelpie Snare Fuscina
-//ItemDisplay[UNI !ID 9br]: // 	Soulfeast Tine War Fork
-//ItemDisplay[UNI !ID 9st]: // 	Hone Sundan Yari
-//ItemDisplay[UNI !ID 9p9]: // 	Spirit of Honor Lance
+ItemDisplay[UNI !ID 9sr]: // 	The Impaler War Spear
+ItemDisplay[UNI !ID 9tr]: // 	Kelpie Snare Fuscina
+ItemDisplay[UNI !ID 9br]: // 	Soulfeast Tine War Fork
+ItemDisplay[UNI !ID 9st]: // 	Hone Sundan Yari
+ItemDisplay[UNI !ID 9p9]: // 	Spirit of Honor Lance
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7sr]: // 	Arioc's Needle Hyperion Spear
-//ItemDisplay[UNI !ID 7br]: // 	Viperfork Mancatcher
-//ItemDisplay[UNI !ID 7p7]: // 	Steel Pillar War Pike
+ItemDisplay[UNI !ID 7sr]: // 	Arioc's Needle Hyperion Spear
+ItemDisplay[UNI !ID 7br]: // 	Viperfork Mancatcher
+ItemDisplay[UNI !ID 7p7]: // 	Steel Pillar War Pike
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Polearms  ███████ //
-//ItemDisplay[UNI !ID bar]: // 	Dimoak's Hew Bardiche
-//ItemDisplay[UNI !ID vou]: // 	Steelgoad Voulge
-//ItemDisplay[UNI !ID scy]: // 	Soul Harvest Scythe
-//ItemDisplay[UNI !ID pax]: // 	The Battlebranch Poleaxe
-//ItemDisplay[UNI !ID hal]: // 	Woestave Halberd
-//ItemDisplay[UNI !ID wsc]: // 	The Grim Reaper War Scythe
+ItemDisplay[UNI !ID bar]: // 	Dimoak's Hew Bardiche
+ItemDisplay[UNI !ID vou]: // 	Steelgoad Voulge
+ItemDisplay[UNI !ID scy]: // 	Soul Harvest Scythe
+ItemDisplay[UNI !ID pax]: // 	The Battlebranch Poleaxe
+ItemDisplay[UNI !ID hal]: // 	Woestave Halberd
+ItemDisplay[UNI !ID wsc]: // 	The Grim Reaper War Scythe
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9b7]: // The Meat Scraper Lochaber Axe
-//ItemDisplay[UNI !ID 9vo]: // 	Blackleach Blade Bill
-//ItemDisplay[UNI !ID 9s8]: // 	Athena's Wrath Battle Scythe
-//ItemDisplay[UNI !ID 9pa]: // 	Pierre Tombale Couant Partizan
-//ItemDisplay[UNI !ID 9h9]: // 	Husoldal Evo Bec-de-Corbin
-//ItemDisplay[UNI !ID 9wc]: // 	Grim's Burning Dead Grim Scythe
+ItemDisplay[UNI !ID 9b7]: // The Meat Scraper Lochaber Axe
+ItemDisplay[UNI !ID 9vo]: // 	Blackleach Blade Bill
+ItemDisplay[UNI !ID 9s8]: // 	Athena's Wrath Battle Scythe
+ItemDisplay[UNI !ID 9pa]: // 	Pierre Tombale Couant Partizan
+ItemDisplay[UNI !ID 9h9]: // 	Husoldal Evo Bec-de-Corbin
+ItemDisplay[UNI !ID 9wc]: // 	Grim's Burning Dead Grim Scythe
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7o7]: // 	Bonehew Ogre Axe
+ItemDisplay[UNI !ID 7o7]: // 	Bonehew Ogre Axe
 ItemDisplay[UNI !ID 7s8]: %RED%O Reaper's Toll %RED%O
 ItemDisplay[UNI !ID 7pa]: %RED%O Tomb Reaver %RED%O
-//ItemDisplay[UNI !ID 7wc]: // 	Stormspire Giant Thresher
+ItemDisplay[UNI !ID 7wc]: // 	Stormspire Giant Thresher
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Staves  ███████ //
-//ItemDisplay[UNI !ID sst]: // 	Bane Ash Short Staff
-//ItemDisplay[UNI !ID lst]: // 	Serpent Lord Long Staff
-//ItemDisplay[UNI !ID cst]: // 	Spire of Lazarus Gnarled Staff
-//ItemDisplay[UNI !ID bst]: // 	The Salamander Battle Staff
-//ItemDisplay[UNI !ID wst]: // 	The Iron Jang Bong War Staff
+ItemDisplay[UNI !ID sst]: // 	Bane Ash Short Staff
+ItemDisplay[UNI !ID lst]: // 	Serpent Lord Long Staff
+ItemDisplay[UNI !ID cst]: // 	Spire of Lazarus Gnarled Staff
+ItemDisplay[UNI !ID bst]: // 	The Salamander Battle Staff
+ItemDisplay[UNI !ID wst]: // 	The Iron Jang Bong War Staff
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 8ss]: // 	Razorswitch Jo Staff
-//ItemDisplay[UNI !ID 8ls]: // 	Ribcracker Quarterstaff
-//ItemDisplay[UNI !ID 8cs]: // 	Chromatic Ire Cedar Staff
-//ItemDisplay[UNI !ID 8bs]: // 	Warpspear Gothic Staff
-//ItemDisplay[UNI !ID 8ws]: // 	Skull Collector Rune Staff
+ItemDisplay[UNI !ID 8ss]: // 	Razorswitch Jo Staff
+ItemDisplay[UNI !ID 8ls]: // 	Ribcracker Quarterstaff
+ItemDisplay[UNI !ID 8cs]: // 	Chromatic Ire Cedar Staff
+ItemDisplay[UNI !ID 8bs]: // 	Warpspear Gothic Staff
+ItemDisplay[UNI !ID 8ws]: // 	Skull Collector Rune Staff
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 6cs]: // 	Ondal's Wisdom Elder Staff
-//ItemDisplay[UNI !ID 6ws]: // 	Mand Song's Lesson Archon Staff
+ItemDisplay[UNI !ID 6cs]: // 	Ondal's Wisdom Elder Staff
+ItemDisplay[UNI !ID 6ws]: // 	Mand Song's Lesson Archon Staff
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Bows  ███████ //
-//ItemDisplay[UNI !ID sbw]: // 	Pluckeye Short Bow
-//ItemDisplay[UNI !ID hbw]: // 	Witherstring Hunter's Bow
-//ItemDisplay[UNI !ID lbw]: // 	Raven Claw Long Bow
-//ItemDisplay[UNI !ID cbw]: // 	Rogue's Bow Composite Bow
-//ItemDisplay[UNI !ID sbb]: // 	Stormstrike Short Battle Bow
-//ItemDisplay[UNI !ID lbb]: // 	Wizendraw Long Battle Bow
-//ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
-//ItemDisplay[UNI !ID lwb]: // 	Blastbark Long War Bow
+ItemDisplay[UNI !ID sbw]: // 	Pluckeye Short Bow
+ItemDisplay[UNI !ID hbw]: // 	Witherstring Hunter's Bow
+ItemDisplay[UNI !ID lbw]: // 	Raven Claw Long Bow
+ItemDisplay[UNI !ID cbw]: // 	Rogue's Bow Composite Bow
+ItemDisplay[UNI !ID sbb]: // 	Stormstrike Short Battle Bow
+ItemDisplay[UNI !ID lbb]: // 	Wizendraw Long Battle Bow
+ItemDisplay[UNI !ID swb]: // 	Hellclap Short War Bow
+ItemDisplay[UNI !ID lwb]: // 	Blastbark Long War Bow
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 8sb]: // 	Skystrike Edge Bow
-//ItemDisplay[UNI !ID 8hb]: // 	Riphook Razor Bow
-//ItemDisplay[UNI !ID 8lb]: // 	Kuko Shakaku Cedar Bow
-//ItemDisplay[UNI !ID 8cb]: // 	Endlesshall Double Bow
-//ItemDisplay[UNI !ID 8s8]: //	Witchwild String Short Siege Bow
-//ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
-//ItemDisplay[UNI !ID 8sw]: // 	Magewrath Rune Bow
-//ItemDisplay[UNI !ID 8lw]: // 	Goldstrike Arch Gothic Bow
+ItemDisplay[UNI !ID 8sb]: // 	Skystrike Edge Bow
+ItemDisplay[UNI !ID 8hb]: // 	Riphook Razor Bow
+ItemDisplay[UNI !ID 8lb]: // 	Kuko Shakaku Cedar Bow
+ItemDisplay[UNI !ID 8cb]: // 	Endlesshall Double Bow
+ItemDisplay[UNI !ID 8s8]: //	Witchwild String Short Siege Bow
+ItemDisplay[UNI !ID 8l8]: // 	Cliffkiller Long Siege Bow
+ItemDisplay[UNI !ID 8sw]: // 	Magewrath Rune Bow
+ItemDisplay[UNI !ID 8lw]: // 	Goldstrike Arch Gothic Bow
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 6l7]: //	Eaglehorn Crusader Bow
-//ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
+ItemDisplay[UNI !ID 6l7]: //	Eaglehorn Crusader Bow
+ItemDisplay[UNI !ID 6sw]: // 	Widowmaker Ward Bow
 ItemDisplay[UNI !ID 6lw]: %RED%O %PURPLE%Windforce %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Crossbows  ███████ //
-//ItemDisplay[UNI !ID lxb]: // 	Leadcrow Light Crossbow
-//ItemDisplay[UNI !ID mxb]: // 	Ichorsting Crossbow
-//ItemDisplay[UNI !ID hxb]: // 	Hellcast Heavy Crossbow
-//ItemDisplay[UNI !ID rxb]: // 	Doomslinger Repeating Crossbow
+ItemDisplay[UNI !ID lxb]: // 	Leadcrow Light Crossbow
+ItemDisplay[UNI !ID mxb]: // 	Ichorsting Crossbow
+ItemDisplay[UNI !ID hxb]: // 	Hellcast Heavy Crossbow
+ItemDisplay[UNI !ID rxb]: // 	Doomslinger Repeating Crossbow
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 8lx]: // 	Langer Briser Arbalest
-//ItemDisplay[UNI !ID 8mx]: // 	Pus Spitter Siege Crossbow
-//ItemDisplay[UNI !ID 8hx]: // 	Buriza-Do Kyanon Balista
-//ItemDisplay[UNI !ID 8rx]: // 	Demon Machine Chu-Ko-Nu
+ItemDisplay[UNI !ID 8lx]: // 	Langer Briser Arbalest
+ItemDisplay[UNI !ID 8mx]: // 	Pus Spitter Siege Crossbow
+ItemDisplay[UNI !ID 8hx]: // 	Buriza-Do Kyanon Balista
+ItemDisplay[UNI !ID 8rx]: // 	Demon Machine Chu-Ko-Nu
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 6hx]: // 	Hellrack Colossus Crossbow
-//ItemDisplay[UNI !ID 6rx]: // 	Gut Siphon Demon Crossbow
+ItemDisplay[UNI !ID 6hx]: // 	Hellrack Colossus Crossbow
+ItemDisplay[UNI !ID 6rx]: // 	Gut Siphon Demon Crossbow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Scepters  ███████ //
-//ItemDisplay[UNI !ID scp]: // 	Knell Striker Scepter
-//ItemDisplay[UNI !ID gsc]: // 	Rusthandle Grand Scepter
-//ItemDisplay[UNI !ID wsp]: // 	Stormeye War Scepter
+ItemDisplay[UNI !ID scp]: // 	Knell Striker Scepter
+ItemDisplay[UNI !ID gsc]: // 	Rusthandle Grand Scepter
+ItemDisplay[UNI !ID wsp]: // 	Stormeye War Scepter
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 9sc]: // 	Zakarum's Hand Rune Scepter
-//ItemDisplay[UNI !ID 9qs]: // 	The Fetid Sprinkler Holy Water Sprinkler
-//ItemDisplay[UNI !ID 9ws]: // 	Hand of Blessed Light Divine Scepter
+ItemDisplay[UNI !ID 9sc]: // 	Zakarum's Hand Rune Scepter
+ItemDisplay[UNI !ID 9qs]: // 	The Fetid Sprinkler Holy Water Sprinkler
+ItemDisplay[UNI !ID 9ws]: // 	Hand of Blessed Light Divine Scepter
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID 7sc]: // 	Heaven's Light Mighty Scepter
-//ItemDisplay[UNI !ID 7qs]: // 	The Redeemer Seraph Rod
-//ItemDisplay[UNI !ID 7ws]: //	Astreon's Iron Ward Caduceus
+ItemDisplay[UNI !ID 7sc]: // 	Heaven's Light Mighty Scepter
+ItemDisplay[UNI !ID 7qs]: // 	The Redeemer Seraph Rod
+ItemDisplay[UNI !ID 7ws]: //	Astreon's Iron Ward Caduceus
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Assassin Weapons  ███████ //
-//ItemDisplay[UNI !ID 9tw]: // 	Bartuc's Cut-Throat Greater Talons
-//ItemDisplay[UNI !ID 7wb]: // 	Jade Talon Wrist Sword
-//ItemDisplay[UNI !ID 7cs]: // 	Shadow Killer Battle Cestus
-//ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
+ItemDisplay[UNI !ID 9tw]: // 	Bartuc's Cut-Throat Greater Talons
+ItemDisplay[UNI !ID 7wb]: %RED%O	Jade Talon Wrist Sword %RED%O
+ItemDisplay[UNI !ID 7cs]: // 	Shadow Killer Battle Cestus
+ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Sorc Orbs  ███████ //
 ItemDisplay[UNI !ID oba]: %RED%The Oculus
@@ -561,131 +561,131 @@ ItemDisplay[UNI !ID obc]: %RED%O Eschuta's Temper %RED%O
 ItemDisplay[UNI !ID obf]: %RED%O Death's Fathom %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Amazon Bows  ███████ //
-//ItemDisplay[UNI !ID am7]: // 	Lycander's Aim Ceremonial Bow
-//ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
+ItemDisplay[UNI !ID am7]: // 	Lycander's Aim Ceremonial Bow
+ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
 ItemDisplay[UNI !ID ama]: %RED%O Titan's Revenge %RED%O
-//ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
-//ItemDisplay[UNI !ID amd]: // 	Stoneraven Matriarchal Spear
-//ItemDisplay[UNI !ID amf]: // 	Thunderstroke Matriarchal Javelin
+ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
+ItemDisplay[UNI !ID amd]: // 	Stoneraven Matriarchal Spear
+ItemDisplay[UNI !ID amf]: // 	Thunderstroke Matriarchal Javelin
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique helms  ███████ //
-//ItemDisplay[UNI !ID cap]: // 	Biggin's Bonnet Cap/hat
-//ItemDisplay[UNI !ID skp]: // 	Tarnhelm Skull Cap
-//ItemDisplay[UNI !ID hlm]: // 	Coif of Glory Helm
-//ItemDisplay[UNI !ID fhl]: // 	Duskdeep Full Helm
-//ItemDisplay[UNI !ID ghm]: // 	Howltusk Great Helm
-//ItemDisplay[UNI !ID crn]: // 	Undead Crown Crown
-//ItemDisplay[UNI !ID msk]: // 	The Face of Horror Mask
-//ItemDisplay[UNI !ID bhm]: // 	Wormskull Bone Helm
+ItemDisplay[UNI !ID cap]: // 	Biggin's Bonnet Cap/hat
+ItemDisplay[UNI !ID skp]: // 	Tarnhelm Skull Cap
+ItemDisplay[UNI !ID hlm]: // 	Coif of Glory Helm
+ItemDisplay[UNI !ID fhl]: // 	Duskdeep Full Helm
+ItemDisplay[UNI !ID ghm]: // 	Howltusk Great Helm
+ItemDisplay[UNI !ID crn]: // 	Undead Crown Crown
+ItemDisplay[UNI !ID msk]: // 	The Face of Horror Mask
+ItemDisplay[UNI !ID bhm]: // 	Wormskull Bone Helm
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID xap]: // 	Peasant Crown War Hat
-//ItemDisplay[UNI !ID xkp]: // 	Rockstopper Sallet
-//ItemDisplay[UNI !ID xlm]: // 	Stealskull Casque
-//ItemDisplay[UNI !ID xhl]: // 	Darksight Helm Basinet
+ItemDisplay[UNI !ID xap]: // 	Peasant Crown War Hat
+ItemDisplay[UNI !ID xkp]: // 	Rockstopper Sallet
+ItemDisplay[UNI !ID xlm]: // 	Stealskull Casque
+ItemDisplay[UNI !ID xhl]: // 	Darksight Helm Basinet
 ItemDisplay[UNI !ID xhm]: %RED%Valkyrie Wing
-//ItemDisplay[UNI !ID xrn]: // 	Crown of Thieves Grand Crown
-//ItemDisplay[UNI !ID xsk]: // 	Blackhorn's Face Death Mask
+ItemDisplay[UNI !ID xrn]: // 	Crown of Thieves Grand Crown
+ItemDisplay[UNI !ID xsk]: // 	Blackhorn's Face Death Mask
 ItemDisplay[UNI !ID xh9]: %RED%O %PURPLE%Vampire Gaze %RED%O
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID uap]: %RED%O %PURPLE%Shako %RED%O
 ItemDisplay[UNI !ID ulm]: %RED%O %PURPLE%Steel Shade %RED%O
 ItemDisplay[UNI !ID uhm]: %RED%O %PURPLE%ETH Steel Shade %RED%O
-//ItemDisplay[UNI !ID urn]: // 	Crown of Ages Corona
+ItemDisplay[UNI !ID urn]: // 	Crown of Ages Corona
 ItemDisplay[UNI !ID usk]: RED%O %PURPLE%Andariel's Visage %RED%O
-//ItemDisplay[UNI !ID uh9]: // 	Giant Skull Bone Visage
+ItemDisplay[UNI !ID uh9]: // 	Giant Skull Bone Visage
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Body Armor  ███████ //
-//ItemDisplay[UNI !ID qui]: // 	Greyform Quilted Armor
-//ItemDisplay[UNI !ID lea]: // 	Blinkbat's form Leather Armor
-//ItemDisplay[UNI !ID hla]: // 	The Centurion Hard Leather Armor
-//ItemDisplay[UNI !ID stu]: // 	Twitchthroe Studded Leather
-//ItemDisplay[UNI !ID rng]: // 	Darkglow Ring Mail
-//ItemDisplay[UNI !ID scl]: // 	Hawkmail Scale Mail
-//ItemDisplay[UNI !ID chn]: // 	Sparking Mail Chain Mail
-//ItemDisplay[UNI !ID brs]: // 	Venom Ward Breast Plate
-//ItemDisplay[UNI !ID spl]: // 	Iceblink Splint Mail
-//ItemDisplay[UNI !ID plt]: // 	Boneflesh Plate Mail
-//ItemDisplay[UNI !ID fld]: // 	Rockfleece Field Plate
-//ItemDisplay[UNI !ID gth]: // 	Rattlecage Gothic Plate
-//ItemDisplay[UNI !ID ful]: // 	Goldskin Full Plate Mail
-//ItemDisplay[UNI !ID aar]: // 	Silks of the Victor Ancient Armor
-//ItemDisplay[UNI !ID ltp]: // 	Heavenly Garb Light Plate
+ItemDisplay[UNI !ID qui]: // 	Greyform Quilted Armor
+ItemDisplay[UNI !ID lea]: // 	Blinkbat's form Leather Armor
+ItemDisplay[UNI !ID hla]: // 	The Centurion Hard Leather Armor
+ItemDisplay[UNI !ID stu]: // 	Twitchthroe Studded Leather
+ItemDisplay[UNI !ID rng]: // 	Darkglow Ring Mail
+ItemDisplay[UNI !ID scl]: // 	Hawkmail Scale Mail
+ItemDisplay[UNI !ID chn]: // 	Sparking Mail Chain Mail
+ItemDisplay[UNI !ID brs]: // 	Venom Ward Breast Plate
+ItemDisplay[UNI !ID spl]: // 	Iceblink Splint Mail
+ItemDisplay[UNI !ID plt]: // 	Boneflesh Plate Mail
+ItemDisplay[UNI !ID fld]: // 	Rockfleece Field Plate
+ItemDisplay[UNI !ID gth]: // 	Rattlecage Gothic Plate
+ItemDisplay[UNI !ID ful]: // 	Goldskin Full Plate Mail
+ItemDisplay[UNI !ID aar]: // 	Silks of the Victor Ancient Armor
+ItemDisplay[UNI !ID ltp]: // 	Heavenly Garb Light Plate
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID xui]: // 	The Spirit Shroud Ghost Armor
+ItemDisplay[UNI !ID xui]: // 	The Spirit Shroud Ghost Armor
 ItemDisplay[UNI !ID xea]: RED%O %PURPLE%Skin of the Vipermagi %RED%O
-//ItemDisplay[UNI !ID xla]: // 	Skin of the Flayed One Demonhide Armor
-//ItemDisplay[UNI !ID xtu]: // 	Iron Pelt Trellised Armor
-//ItemDisplay[UNI !ID xng]: // 	Spirit Forge Linked Mail
-//ItemDisplay[UNI !ID xcl]: // 	Crow Caw Tigulated Mail
+ItemDisplay[UNI !ID xla]: // 	Skin of the Flayed One Demonhide Armor
+ItemDisplay[UNI !ID xtu]: // 	Iron Pelt Trellised Armor
+ItemDisplay[UNI !ID xng]: // 	Spirit Forge Linked Mail
+ItemDisplay[UNI !ID xcl]: // 	Crow Caw Tigulated Mail
 ItemDisplay[UNI !ID xhn]: %RED%O %PURPLE%Shaftstop %RED%O
-//ItemDisplay[UNI !ID xrs]: // 	Duriel's Shell Cuirass
-//ItemDisplay[UNI !ID xpl]: // 	Skullder's Ire Russet Armor
+ItemDisplay[UNI !ID xrs]: // 	Duriel's Shell Cuirass
+ItemDisplay[UNI !ID xpl]: // 	Skullder's Ire Russet Armor
 ItemDisplay[UNI !ID xlt]: %RED%O %PURPLE%Guardian Angel %RED%O
-//ItemDisplay[UNI !ID xld]: // 	Toothrow Sharktooth Armor
-//ItemDisplay[UNI !ID xth]: // 	Atma's Wail Embossed Plate
-//ItemDisplay[UNI !ID xul]: // 	Black Hades Chaos Armor
-//ItemDisplay[UNI !ID xar]: // 	CorpsemournOrnate Armor
-//ItemDisplay[UNI !ID xtp]: // 	Que-Hegan's Wisdom Mage Plate
+ItemDisplay[UNI !ID xld]: // 	Toothrow Sharktooth Armor
+ItemDisplay[UNI !ID xth]: // 	Atma's Wail Embossed Plate
+ItemDisplay[UNI !ID xul]: // 	Black Hades Chaos Armor
+ItemDisplay[UNI !ID xar]: // 	CorpsemournOrnate Armor
+ItemDisplay[UNI !ID xtp]: // 	Que-Hegan's Wisdom Mage Plate
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID uui]: %RED%O %PURPLE%Ormus' Robes %RED%O
 ItemDisplay[UNI !ID utu]: %RED%The Gladiator's Bane
 ItemDisplay[UNI !ID upl]: %RED%O %PURPLE%Arkaine's Valor %RED%O
-//ItemDisplay[UNI !ID uld]: // 	Leviathan Kraken Shell
-//ItemDisplay[UNI !ID ult]: // 	Hellforged Plate
-//ItemDisplay[UNI !ID uul]: // 	Steel Carapace Shadow Plate
+ItemDisplay[UNI !ID uld]: // 	Leviathan Kraken Shell
+ItemDisplay[UNI !ID ult]: // 	Hellforged Plate
+ItemDisplay[UNI !ID uul]: // 	Steel Carapace Shadow Plate
 ItemDisplay[UNI !ID uar]:  %RED%O %PURPLE%Tyrael's or Templar's Might %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Shields  ███████ //
-//ItemDisplay[UNI !ID buc]: // 	Pelta Lunata Buckler
-//ItemDisplay[UNI !ID sml]: // 	Umbral Disk Small Shield
-//ItemDisplay[UNI !ID lrg]: // 	Stormguild Large Shield
-//ItemDisplay[UNI !ID kit]: // 	Steelclash Kite Shield
-//ItemDisplay[UNI !ID tow]: // 	Bverrit Keep Tower Shield
-//ItemDisplay[UNI !ID gts]: // 	The Ward Gothic Shield
-//ItemDisplay[UNI !ID bsh]: // 	Wall of the Eyeless Bone Shield
-//ItemDisplay[UNI !ID spk]: // 	Swordback Hold Spiked Shield
+ItemDisplay[UNI !ID buc]: // 	Pelta Lunata Buckler
+ItemDisplay[UNI !ID sml]: // 	Umbral Disk Small Shield
+ItemDisplay[UNI !ID lrg]: // 	Stormguild Large Shield
+ItemDisplay[UNI !ID kit]: // 	Steelclash Kite Shield
+ItemDisplay[UNI !ID tow]: // 	Bverrit Keep Tower Shield
+ItemDisplay[UNI !ID gts]: // 	The Ward Gothic Shield
+ItemDisplay[UNI !ID bsh]: // 	Wall of the Eyeless Bone Shield
+ItemDisplay[UNI !ID spk]: // 	Swordback Hold Spiked Shield
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID xuc]: // 	Visceratuant Defender
-//ItemDisplay[UNI !ID xml]: // 	Moser's Blessed Circle Round Shield
-//ItemDisplay[UNI !ID xrg]: // 	Stormchaser Scutum
-//ItemDisplay[UNI !ID xit]: // 	Tiamat's Rebuke Dragon Shield
-//ItemDisplay[UNI !ID xow]: // 	Gerke's Sanctuary Pavise
-//ItemDisplay[UNI !ID xts]: // 	Radament's Sphere Ancient Shield
+ItemDisplay[UNI !ID xuc]: // 	Visceratuant Defender
+ItemDisplay[UNI !ID xml]: // 	Moser's Blessed Circle Round Shield
+ItemDisplay[UNI !ID xrg]: // 	Stormchaser Scutum
+ItemDisplay[UNI !ID xit]: // 	Tiamat's Rebuke Dragon Shield
+ItemDisplay[UNI !ID xow]: // 	Gerke's Sanctuary Pavise
+ItemDisplay[UNI !ID xts]: // 	Radament's Sphere Ancient Shield
 //ItemDisplay[UNI !ID xsh]: // 	Lidless Wall Grim Shield
-//ItemDisplay[UNI !ID xpk]: // 	Lance Guard Barbed Shield
+ItemDisplay[UNI !ID xpk]: // 	Lance Guard Barbed Shield
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID uml]: // 	Blackoak Shield Luna
+ItemDisplay[UNI !ID uml]: // 	Blackoak Shield Luna
 ItemDisplay[UNI !ID uit]: %RED%O %PURPLE%Stormshield %RED%O
 ItemDisplay[UNI !ID uow]: %RED%O %PURPLE%Medusa's Gaze %RED%O
-//ItemDisplay[UNI !ID uts]: // 	Spirit Ward Ward
-//ItemDisplay[UNI !ID ush]: // 	Head Hunter's Glory Troll Nest
-//ItemDisplay[UNI !ID upk]: // 	Spike Thorn Blade Barrier
+ItemDisplay[UNI !ID uts]: // 	Spirit Ward Ward
+ItemDisplay[UNI !ID ush]: // 	Head Hunter's Glory Troll Nest
+ItemDisplay[UNI !ID upk]: // 	Spike Thorn Blade Barrier
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Gloves  ███████ //
-//ItemDisplay[UNI !ID lgl]: // 	The Hand of Broc Leather Gloves
+ItemDisplay[UNI !ID lgl]: // 	The Hand of Broc Leather Gloves
 ItemDisplay[UNI !ID vgl]: %RED%Bloodfist
 ItemDisplay[UNI !ID mgl]: %RED%O Chance Guards %RED%O 
 ItemDisplay[UNI !ID tgl]: %RED%O Magefist %RED%O
-//ItemDisplay[UNI !ID hgl]: // 	Frostburn Gauntlets
+ItemDisplay[UNI !ID hgl]: // 	Frostburn Gauntlets
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID xlg]: // 	Venom Grip Demonhide Gloves
-//ItemDisplay[UNI !ID xvg]: // 	Gravepalm Sharkskin Gloves
-//ItemDisplay[UNI !ID xmg]: // 	Ghoulhide Heavy Bracers
-//ItemDisplay[UNI !ID xtg]: // 	Lava Gout Battle Gauntlets
-//ItemDisplay[UNI !ID xhg]: // 	Hellmouth War Gauntlets
+ItemDisplay[UNI !ID xlg]: // 	Venom Grip Demonhide Gloves
+ItemDisplay[UNI !ID xvg]: // 	Gravepalm Sharkskin Gloves
+ItemDisplay[UNI !ID xmg]: // 	Ghoulhide Heavy Bracers
+ItemDisplay[UNI !ID xtg]: // 	Lava Gout Battle Gauntlets
+ItemDisplay[UNI !ID xhg]: // 	Hellmouth War Gauntlets
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID uvg]: %RED%O %PURPLE%Dracul's Grasp %RED%O
 ItemDisplay[UNI !ID umg]: %RED%O Soul Drainer %RED%O
 ItemDisplay[UNI !ID uhg]: %RED%Steelrend
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Boots  ███████ //
-//ItemDisplay[UNI !ID lbt]: // 	Hotspur Boots
-//ItemDisplay[UNI !ID vbt]: // 	Gorefoot Heavy Boots
-//ItemDisplay[UNI !ID mbt]: // 	Treads of Cthon Chain Boots
+ItemDisplay[UNI !ID lbt]: // 	Hotspur Boots
+ItemDisplay[UNI !ID vbt]: // 	Gorefoot Heavy Boots
+ItemDisplay[UNI !ID mbt]: // 	Treads of Cthon Chain Boots
 ItemDisplay[UNI !ID tbt]: %RED%Goblin Toe
-//ItemDisplay[UNI !ID hbt]: // 	Tearhaunch Greaves
+ItemDisplay[UNI !ID hbt]: // 	Tearhaunch Greaves
 //─────────────────────────────────────────────────
-//ItemDisplay[UNI !ID xlb]: // 	Infernostride Demonhide Boots
+ItemDisplay[UNI !ID xlb]: // 	Infernostride Demonhide Boots
 ItemDisplay[UNI !ID xvb]: %RED%O Waterwalk %RED%O
 ItemDisplay[UNI !ID xmb]: %RED%O Silkweave %RED%O
 ItemDisplay[UNI !ID xtb]: %RED%O %PURPLE%War Traveler %RED%O
@@ -696,16 +696,16 @@ ItemDisplay[UNI !ID umb]: %RED%Marrowwalks
 ItemDisplay[UNI !ID uhb]: %RED%O Shadow Dancer %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Belts  ███████ //
-//ItemDisplay[UNI !ID lbl]: // 	Lenymo Sash
-//ItemDisplay[UNI !ID vbl]: // 	Snakecord Light Belt
-//ItemDisplay[UNI !ID mbl]: // 	Nightsmoke Belt
-//ItemDisplay[UNI !ID tbl]: // 	Goldwrap Heavy Belt
-//ItemDisplay[UNI !ID hbl]: // 	Bladebuckle Plated Belt
+ItemDisplay[UNI !ID lbl]: // 	Lenymo Sash
+ItemDisplay[UNI !ID vbl]: // 	Snakecord Light Belt
+ItemDisplay[UNI !ID mbl]: // 	Nightsmoke Belt
+ItemDisplay[UNI !ID tbl]: // 	Goldwrap Heavy Belt
+ItemDisplay[UNI !ID hbl]: // 	Bladebuckle Plated Belt
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID zlb]: %RED%O String of Ears %RED%O
-//ItemDisplay[UNI !ID zvb]: // 	Razortail Sharkskin Belt
-//ItemDisplay[UNI !ID zmb]: // 	Gloom's Trap Mesh Belt
-//ItemDisplay[UNI !ID ztb]: // 	Snowclash Battle Belt
+ItemDisplay[UNI !ID zvb]: // 	Razortail Sharkskin Belt
+ItemDisplay[UNI !ID zmb]: // 	Gloom's Trap Mesh Belt
+ItemDisplay[UNI !ID ztb]: // 	Snowclash Battle Belt
 ItemDisplay[UNI !ID zhb]: %RED%O %PURPLE%Thundergod's Vigor %RED%O
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID ulc]: %RED%O %PURPLE%Arachnid Mesh %RED%O
@@ -714,25 +714,25 @@ ItemDisplay[UNI !ID umc]: %RED%O %PURPLE%Verdungo's Hearty Cord %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Druid Pelts  ███████ //
 ItemDisplay[UNI !ID dra]: // 	%RED%O %PURPLE%Jalal's Mane %RED%O
-//ItemDisplay[UNI !ID drb]: // 	Cerebus' Bite Blood Spirt
+ItemDisplay[UNI !ID drb]: // 	Cerebus' Bite Blood Spirt
 ItemDisplay[UNI !ID drd]: // 	%RED%O Spirit Keeper %RED%O
 ItemDisplay[UNI !ID dre]: // 	%RED%O Ravenlore %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Barb Helms  ███████ //
 ItemDisplay[UNI !ID baa]: %RED%O %PURPLE%Arreat's Face %RED%O
-//ItemDisplay[UNI !ID bac]: // 	Wolfhowl Fury Visor
-//ItemDisplay[UNI !ID bad]: // 	Demonhorn's Edge Destroyer Helm
-//ItemDisplay[UNI !ID bae]: // 	Halaberd's Reign Conquerer Crown
+ItemDisplay[UNI !ID bac]: // 	Wolfhowl Fury Visor
+ItemDisplay[UNI !ID bad]: // 	Demonhorn's Edge Destroyer Helm
+ItemDisplay[UNI !ID bae]: // 	Halaberd's Reign Conquerer Crown
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Paladin Shields  ███████ //
 ItemDisplay[UNI !ID pa9]: %RED%O %PURPLE%Herald of Zakarum %RED%O
-//ItemDisplay[UNI !ID pac]: // 	Alma Negra Sacred Rondache
-//ItemDisplay[UNI !ID pae]: // 	Dragonscale Zakarum Shield
+ItemDisplay[UNI !ID pac]: // 	Alma Negra Sacred Rondache
+ItemDisplay[UNI !ID pae]: // 	Dragonscale Zakarum Shield
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Necro Heads  ███████ //
 ItemDisplay[UNI !ID nea]: %RED%O %PURPLE%Homunculus %RED%O
-//ItemDisplay[UNI !ID nee]: // 	Boneflame Succubus Skull
-//ItemDisplay[UNI !ID nef]: // 	Darkforce Spawn Bloodlord Skull
+ItemDisplay[UNI !ID nee]: // 	Boneflame Succubus Skull
+ItemDisplay[UNI !ID nef]: // 	Darkforce Spawn Bloodlord Skull
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Other Headgear  ███████ //
 ItemDisplay[UNI !ID ci2]: %RED%Kira's Guardian
@@ -761,167 +761,171 @@ ItemDisplay[SET]: %NAME%
 //╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Axes  ███████ //
-//ItemDisplay[hax]: // 	Hand Axe
-//ItemDisplay[axe]: // 	Axe
-//ItemDisplay[2ax]: // 	Double Axe
-//ItemDisplay[mpi]: // 	Military Pick
-//ItemDisplay[wax]: // 	War Axe
-//ItemDisplay[lax]: // 	Large Axe
-//ItemDisplay[bax]: // 	Broad Axe
-//ItemDisplay[btx]: // 	Battle Axe
-//ItemDisplay[gax]: // 	Great Axe
-//ItemDisplay[gix]: // 	Giant Axe
+ItemDisplay[hax !CLVL<19]: // 	Hand Axe
+ItemDisplay[axe !CLVL<19]: // 	Axe
+ItemDisplay[2ax !CLVL<19]: // 	Double Axe
+ItemDisplay[mpi !CLVL<19]: // 	Military Pick
+ItemDisplay[wax !CLVL<19]: // 	War Axe
+ItemDisplay[lax !CLVL<19]: // 	Large Axe
+ItemDisplay[bax !CLVL<19]: // 	Broad Axe
+ItemDisplay[btx !CLVL<19]: // 	Battle Axe
+ItemDisplay[gax !CLVL<19]: // 	Great Axe
+ItemDisplay[gix !CLVL<19]: // 	Giant Axe
 //─────────────────────────────────────────────────
-//ItemDisplay[9ha]: // 	Hatchet
-//ItemDisplay[9ax]: // 	Cleaver
-//ItemDisplay[92a]: // 	Twin Axe
-//ItemDisplay[9mp]: // 	Crowbill
-//ItemDisplay[9wa]: // 	Naga
-//ItemDisplay[9la]: // 	Military Axe
-//ItemDisplay[9ba]: // 	Bearded Axe
-//ItemDisplay[9bt]: // 	Tabar
-//ItemDisplay[9ga]: // 	Gothic Axe
-//ItemDisplay[9gi]: // 	Ancient Axe
+ItemDisplay[9ha !CLVL<59]: // 	Hatchet
+ItemDisplay[9ax !CLVL<59]: // 	Cleaver
+ItemDisplay[92a !CLVL<59]: // 	Twin Axe
+ItemDisplay[9mp !CLVL<59]: // 	Crowbill
+ItemDisplay[9wa !CLVL<59]: // 	Naga
+ItemDisplay[9la !CLVL<59]: // 	Military Axe
+ItemDisplay[9ba !CLVL<59]: // 	Bearded Axe
+ItemDisplay[9bt !CLVL<59]: // 	Tabar
+ItemDisplay[9ga !CLVL<59]: // 	Gothic Axe
+ItemDisplay[9gi !CLVL<59]: // 	Ancient Axe
 //─────────────────────────────────────────────────
-//ItemDisplay[7ha]: // 	Tomahawk
-//ItemDisplay[7ax]: // 	Small Crescent
-//ItemDisplay[72a]: // 	Ettin Axe
-//ItemDisplay[7mp]: // 	War Spike
-//ItemDisplay[7wa]: // 	Berserker Axe
-//ItemDisplay[7la]: // 	Feral Axe
-//ItemDisplay[7ba]: // 	Silver Edged Axe
-//ItemDisplay[7bt]: // 	Decapitator
-//ItemDisplay[7ga]: // 	Champion Axe
-//ItemDisplay[7gi]: // 	Glorious Axe
+ItemDisplay[7ha !CLVL<59]: // 	Tomahawk
+ItemDisplay[7ax !CLVL<59]: // 	Small Crescent
+ItemDisplay[72a !CLVL<59]: // 	Ettin Axe
+ItemDisplay[7mp !CLVL<59]: // 	War Spike
+ItemDisplay[7wa !CLVL<59]: // 	Berserker Axe
+ItemDisplay[7la !CLVL<59]: // 	Feral Axe
+ItemDisplay[7ba !CLVL<59]: // 	Silver Edged Axe
+ItemDisplay[7bt !CLVL<59]: // 	Decapitator
+ItemDisplay[7ga !CLVL<59]: // 	Champion Axe
+ItemDisplay[7gi !CLVL<59]: // 	Glorious Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Wands  ███████ //
-//ItemDisplay[wnd]: // 	Wand
-//ItemDisplay[ywn]: // 	Yew Wand
-//ItemDisplay[bwn]: // 	Bone Wand
-//ItemDisplay[gwn]: // 	Grim Wand
+ItemDisplay[(WP12 AND ETH) !NORM]:
+ItemDisplay[(WP12 AND NMAG) !NORM]: %NAME% %WHITE%[%PRICE%]
+ItemDisplay[wnd !CLVL<19]: // 	Wand
+ItemDisplay[ywn !CLVL<19]: // 	Yew Wand
+ItemDisplay[bwn !CLVL<19]: // 	Bone Wand
+ItemDisplay[gwn !CLVL<19]: // 	Grim Wand
 //─────────────────────────────────────────────────
-//ItemDisplay[9wn]: // 	Burnt Wand
-//ItemDisplay[9yw]: // 	Petrified Wand
-//ItemDisplay[9bw]: // 	Tomb Wand
-//ItemDisplay[9gw]: // 	Grave Wand
+ItemDisplay[9wn !CLVL<49]: // 	Burnt Wand
+ItemDisplay[9yw !CLVL<49]: // 	Petrified Wand
+ItemDisplay[9bw !CLVL<49]: // 	Tomb Wand
+ItemDisplay[9gw !CLVL<49]: // 	Grave Wand
 //─────────────────────────────────────────────────
-//ItemDisplay[7wn]: // 	Polished Wand
-//ItemDisplay[7yw]: // 	Ghost Wand
-//ItemDisplay[7bw]: // 	Lich Wand
-//ItemDisplay[7gw]: // 	Unearthed Wand
+ItemDisplay[7wn !CLVL<49]: // 	Polished Wand
+ItemDisplay[7yw !CLVL<49]: // 	Ghost Wand
+ItemDisplay[7bw !CLVL<49]: // 	Lich Wand
+ItemDisplay[7gw !CLVL<49]: // 	Unearthed Wand
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Maces  ███████ //
-//ItemDisplay[clb]: // 	Club
-//ItemDisplay[spc]: // 	Spiked Club
-//ItemDisplay[mac]: // 	Mace
-//ItemDisplay[mst]: // 	Morning Star
-//ItemDisplay[fla]: // 	Flail
-//ItemDisplay[whm]: // 	War Hammer
-//ItemDisplay[mau]: // 	Maul
-//ItemDisplay[gma]: // 	Great Maul
+ItemDisplay[clb !CLVL<19]: // 	Club
+ItemDisplay[spc !CLVL<19]: // 	Spiked Club
+ItemDisplay[mac !CLVL<19]: // 	Mace
+ItemDisplay[mst !CLVL<19]: // 	Morning Star
+ItemDisplay[fla !CLVL<19]: // 	Flail
+ItemDisplay[whm !CLVL<19]: // 	War Hammer
+ItemDisplay[mau !CLVL<19]: // 	Maul
+ItemDisplay[gma !CLVL<19]: // 	Great Maul
 //─────────────────────────────────────────────────
-//ItemDisplay[9cl]: // 	Cudgel
-//ItemDisplay[9sp]: // 	Barbed Club
-//ItemDisplay[9ma]: // 	Flanged Mace
-//ItemDisplay[9mt]: // 	Jagged Star
-//ItemDisplay[9fl]: // 	Knout
-//ItemDisplay[9wh]: // 	Battle Hammer
-//ItemDisplay[9m9]: // 	War Club
-//ItemDisplay[9gm]: // 	Martel de Fer
+ItemDisplay[9cl !CLVL<59]: // 	Cudgel
+ItemDisplay[9sp !CLVL<59]: // 	Barbed Club
+ItemDisplay[9ma !CLVL<59]: // 	Flanged Mace
+ItemDisplay[9mt !CLVL<59]: // 	Jagged Star
+ItemDisplay[9fl !CLVL<59]: // 	Knout
+ItemDisplay[9wh !CLVL<59]: // 	Battle Hammer
+ItemDisplay[9m9 !CLVL<59]: // 	War Club
+ItemDisplay[9gm !CLVL<59]: // 	Martel de Fer
 //─────────────────────────────────────────────────
-//ItemDisplay[7cl]: // 	Truncheon
-//ItemDisplay[7sp]: // 	Tyrant Club
-//ItemDisplay[7ma]: // 	Reinforced Mace
-//ItemDisplay[7mt]: // 	Devil Star
-//ItemDisplay[7fl]: // 	Scourge
-//ItemDisplay[7wh]: // 	Legendary Mallet
-//ItemDisplay[7m7]: // 	Ogre Maul
-//ItemDisplay[7gm]: // 	Thunder Maul
+ItemDisplay[7cl !CLVL<59]: // 	Truncheon
+ItemDisplay[7sp !CLVL<59]: // 	Tyrant Club
+ItemDisplay[7ma !CLVL<59]: // 	Reinforced Mace
+ItemDisplay[7mt !CLVL<59]: // 	Devil Star
+ItemDisplay[7fl !CLVL<59]: // 	Scourge
+ItemDisplay[7wh !CLVL<59]: // 	Legendary Mallet
+ItemDisplay[7m7 !CLVL<59]: // 	Ogre Maul
+ItemDisplay[7gm !CLVL<59]: // 	Thunder Maul
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Swords  ███████ //
-//ItemDisplay[ssd]: // 	Short Sword
-//ItemDisplay[scm]: // 	Scimitar
-//ItemDisplay[sbr]: // 	Saber
-//ItemDisplay[flc]: // 	Falchion
-//ItemDisplay[crs]: // 	Crystal Sword
-//ItemDisplay[bsd]: // 	Broad Sword
-//ItemDisplay[lsd]: // 	Long Sword
-//ItemDisplay[wsd]: // 	War Sword
-//ItemDisplay[2hs]: // 	Two-Handed Sword
-//ItemDisplay[clm]: // 	Claymore
-//ItemDisplay[gis]: // 	Giant Sword
-//ItemDisplay[bsw]: // 	Bastard Sword
-//ItemDisplay[flb]: // 	Flamberge
-//ItemDisplay[gsd]: // 	Great Sword
+ItemDisplay[ssd !CLVL<19]: // 	Short Sword
+ItemDisplay[scm !CLVL<19]: // 	Scimitar
+ItemDisplay[sbr !CLVL<19]: // 	Saber
+ItemDisplay[flc !CLVL<19]: // 	Falchion
+ItemDisplay[crs !CLVL<19]: // 	Crystal Sword
+ItemDisplay[bsd !CLVL<19]: // 	Broad Sword
+ItemDisplay[lsd !CLVL<19]: // 	Long Sword
+ItemDisplay[wsd !CLVL<19]: // 	War Sword
+ItemDisplay[2hs !CLVL<19]: // 	Two-Handed Sword
+ItemDisplay[clm !CLVL<19]: // 	Claymore
+ItemDisplay[gis !CLVL<19]: // 	Giant Sword
+ItemDisplay[bsw !CLVL<19]: // 	Bastard Sword
+ItemDisplay[flb !CLVL<19]: // 	Flamberge
+ItemDisplay[gsd !CLVL<19]: // 	Great Sword
 //─────────────────────────────────────────────────
-//ItemDisplay[9ss]: // 	Gladius
-//ItemDisplay[9sm]: // 	Cutlass
-//ItemDisplay[9sb]: // 	Shamshir
-//ItemDisplay[9fc]: // 	Tulwar
-//ItemDisplay[9cr]: // 	Dimensional Blade
-//ItemDisplay[9bs]: // 	Battle Sword
-//ItemDisplay[9ls]: // 	Rune Sword
-//ItemDisplay[9wd]: // 	Ancient Sword
-//ItemDisplay[92h]: // 	Espadon
-//ItemDisplay[9cm]: // 	Dacian Falx
-//ItemDisplay[9gs]: // 	Tusk Sword
-//ItemDisplay[9b9]: // 	Gothic Sword
-//ItemDisplay[9fb]: // 	Zweihander
-//ItemDisplay[9gd]: // 	Executioner Sword
+ItemDisplay[9ss !CLVL<59]: // 	Gladius
+ItemDisplay[9sm !CLVL<59]: // 	Cutlass
+ItemDisplay[9sb !CLVL<59]: // 	Shamshir
+ItemDisplay[9fc !CLVL<59]: // 	Tulwar
+ItemDisplay[9cr !CLVL<59]: // 	Dimensional Blade
+ItemDisplay[9bs !CLVL<59]: // 	Battle Sword
+ItemDisplay[9ls !CLVL<59]: // 	Rune Sword
+ItemDisplay[9wd !CLVL<59]: // 	Ancient Sword
+ItemDisplay[92h !CLVL<59]: // 	Espadon
+ItemDisplay[9cm !CLVL<59]: // 	Dacian Falx
+ItemDisplay[9gs !CLVL<59]: // 	Tusk Sword
+ItemDisplay[9b9 !CLVL<59]: // 	Gothic Sword
+ItemDisplay[9fb !CLVL<59]: // 	Zweihander
+ItemDisplay[9gd !CLVL<59]: // 	Executioner Sword
 //─────────────────────────────────────────────────
-//ItemDisplay[7ss]: // 	Falcata
-//ItemDisplay[7sm]: // 	Ataghan
-//ItemDisplay[7sb]: // 	Elegant Blade
-//ItemDisplay[7fc]: // 	Hydra Edge
-//ItemDisplay[7cr]: // 	Phase Blade
-//ItemDisplay[7bs]: // 	Conquest Sword
-//ItemDisplay[7ls]: // 	Cryptic Sword
-//ItemDisplay[7wd]: // 	Mythical Sword
-//ItemDisplay[72h]: // 	Legend Sword
-//ItemDisplay[7cm]: // 	Highland Blade
-//ItemDisplay[7gs]: // 	Balrog Blade
-//ItemDisplay[7b7]: // 	Champion Sword 
-//ItemDisplay[7fb]: // 	Colossal Sword
-//ItemDisplay[7gd]: // 	Colossus Blade
+ItemDisplay[7ss !CLVL<59]: // 	Falcata
+ItemDisplay[7sm !CLVL<59]: // 	Ataghan
+ItemDisplay[7sb !CLVL<59]: // 	Elegant Blade
+ItemDisplay[7fc !CLVL<59]: // 	Hydra Edge
+ItemDisplay[7cr !CLVL<59]: // 	Phase Blade
+ItemDisplay[7bs !CLVL<59]: // 	Conquest Sword
+ItemDisplay[7ls !CLVL<59]: // 	Cryptic Sword
+ItemDisplay[7wd !CLVL<59]: // 	Mythical Sword
+ItemDisplay[72h !CLVL<59]: // 	Legend Sword
+ItemDisplay[7cm !CLVL<59]: // 	Highland Blade
+ItemDisplay[7gs !CLVL<59]: // 	Balrog Blade
+ItemDisplay[7b7 !CLVL<59]: // 	Champion Sword 
+ItemDisplay[7fb !CLVL<59]: // 	Colossal Sword
+ItemDisplay[7gd !CLVL<59]: // 	Colossus Blade
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Daggers  ███████ //
-//ItemDisplay[dgr]: // 	Dagger
-//ItemDisplay[dir]: // 	Dirk
-//ItemDisplay[kri]: // 	Kriss
-//ItemDisplay[bld]: // 	Blade
+ItemDisplay[dgr !CLVL<19]: // 	Dagger
+ItemDisplay[dir !CLVL<19]: // 	Dirk
+ItemDisplay[kri !CLVL<19]: // 	Kriss
+ItemDisplay[bld !CLVL<19]: // 	Blade
 //─────────────────────────────────────────────────
-//ItemDisplay[9dg]: // 	Poignard
-//ItemDisplay[9di]: // 	Rondel
-//ItemDisplay[9kr]: // 	Cinquedeas
-//ItemDisplay[9bl]: // 	Stiletto
+ItemDisplay[9dg !CLVL<59]: // 	Poignard
+ItemDisplay[9di !CLVL<59]: // 	Rondel
+ItemDisplay[9kr !CLVL<59]: // 	Cinquedeas
+ItemDisplay[9bl !CLVL<59]: // 	Stiletto
 //─────────────────────────────────────────────────
-//ItemDisplay[7dg]: // 	Bone Knife
-//ItemDisplay[7di]: // 	Mithral Point
-//ItemDisplay[7kr]: // 	Fanged Knife
-//ItemDisplay[7bl]: // 	Legend Spike
+ItemDisplay[7dg !CLVL<59]: // 	Bone Knife
+ItemDisplay[7di !CLVL<59]: // 	Mithral Point
+ItemDisplay[7kr !CLVL<59]: // 	Fanged Knife
+ItemDisplay[7bl !CLVL<59]: // 	Legend Spike
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Throwing  ███████ //
-//ItemDisplay[tkf]: // 	Throwing Knife
-//ItemDisplay[tax]: // 	Throwing Axe
-//ItemDisplay[bkf]: // 	Balanced Knife
-//ItemDisplay[bal]: // 	Balanced Axe
+ItemDisplay[WP5 AND ETH]:
+ItemDisplay[tkf !CLVL<19]: // 	Throwing Knife
+ItemDisplay[tax !CLVL<19]: // 	Throwing Axe
+ItemDisplay[bkf !CLVL<19]: // 	Balanced Knife
+ItemDisplay[bal !CLVL<19]: // 	Balanced Axe
 //─────────────────────────────────────────────────
-//ItemDisplay[9tk]: // 	Battle Dart
-//ItemDisplay[9ta]: // 	Francisca
-//ItemDisplay[9bk]: // 	War Dart
-//ItemDisplay[9b8]: // 	Hurlbat
+ItemDisplay[9tk]: %YELLOW%$$ %NAME% $$ // 	Battle Dart
+ItemDisplay[9ta]: %YELLOW%$$ %NAME% $$ // 	Francisca
+ItemDisplay[9bk]: %YELLOW%$$ %NAME% $$ // 	War Dart
+ItemDisplay[9b8]:  // 	Hurlbat
 //─────────────────────────────────────────────────
-//ItemDisplay[7tk]: // 	Flying Knife
-//ItemDisplay[7ta]: // 	Flying Axe
-//ItemDisplay[7bk]: // 	Winged Knife
-//ItemDisplay[7b8]: // 	Winged Axe
+ItemDisplay[7tk]: %YELLOW%$$ %NAME% $$ // 	Flying Knife
+ItemDisplay[7ta]: // 	Flying Axe
+ItemDisplay[7bk]: %YELLOW%$$ %NAME% $$ // 	Winged Knife
+ItemDisplay[7b8]:$ // 	Winged Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Javelins  ███████ //
-//ItemDisplay[jav]: // 	Javelin
-//ItemDisplay[pil]: // 	Pilum
-//ItemDisplay[ssp]: // 	Short Spear
-//ItemDisplay[glv]: // 	Glaive
-//ItemDisplay[tsp]: // 	Throwing Spear
+ItemDisplay[WP6 AND ETH]:
+ItemDisplay[jav !CLVL<19]: // 	Javelin
+ItemDisplay[pil !CLVL<19]: // 	Pilum
+ItemDisplay[ssp !CLVL<19]: // 	Short Spear
+ItemDisplay[glv !CLVL<19]: // 	Glaive
+ItemDisplay[tsp !CLVL<19]: // 	Throwing Spear
 //─────────────────────────────────────────────────
 //ItemDisplay[9ja]: // 	War Javelin
 //ItemDisplay[9pi]: // 	Great Pilum
@@ -936,426 +940,426 @@ ItemDisplay[SET]: %NAME%
 //ItemDisplay[7ts]: // 	Winged Harpoon
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Spears  ███████ //
-//ItemDisplay[spr]: // 	Spear
-//ItemDisplay[tri]: // 	Trident
-//ItemDisplay[brn]: // 	Brandistock
-//ItemDisplay[spt]: // 	Spetum
-//ItemDisplay[pik]: // 	Pike
+ItemDisplay[spr !CLVL<19]: // 	Spear
+ItemDisplay[tri !CLVL<19]: // 	Trident
+ItemDisplay[brn !CLVL<19]: // 	Brandistock
+ItemDisplay[spt !CLVL<19]: // 	Spetum
+ItemDisplay[pik !CLVL<19]: // 	Pike
 //─────────────────────────────────────────────────
-//ItemDisplay[9sr]: // 	War Spear
-//ItemDisplay[9tr]: // 	Fuscina
-//ItemDisplay[9br]: // 	War Fork
-//ItemDisplay[9st]: // 	Yari
-//ItemDisplay[9p9]: // 	Lance
+ItemDisplay[9sr !CLVL<59]: // 	War Spear
+ItemDisplay[9tr !CLVL<59]: // 	Fuscina
+ItemDisplay[9br !CLVL<59]: // 	War Fork
+ItemDisplay[9st !CLVL<59]: // 	Yari
+ItemDisplay[9p9 !CLVL<59]: // 	Lance
 //─────────────────────────────────────────────────
-//ItemDisplay[7sr]: // 	Hyperion Spear
-//ItemDisplay[7tr]: // 	Stygian Pike
-//ItemDisplay[7br]: // 	Mancatcher
-//ItemDisplay[7st]: // 	Ghost Spear
-//ItemDisplay[7p7]: // 	War Pike
+ItemDisplay[7sr !CLVL<59]: // 	Hyperion Spear
+ItemDisplay[7tr !CLVL<59]: // 	Stygian Pike
+ItemDisplay[7br !CLVL<59]: // 	Mancatcher
+ItemDisplay[7st !CLVL<59]: // 	Ghost Spear
+ItemDisplay[7p7 !CLVL<59]: // 	War Pike
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Polearms  ███████ //
-//ItemDisplay[bar]: // 	Bardiche
-//ItemDisplay[vou]: // 	Voulge
-//ItemDisplay[scy]: // 	Scythe
-//ItemDisplay[pax]: // 	Poleaxe
-//ItemDisplay[hal]: // 	Halberd
-//ItemDisplay[wsc]: // 	War Scythe
+ItemDisplay[bar !CLVL<19]: // 	Bardiche
+ItemDisplay[vou !CLVL<19]: // 	Voulge
+ItemDisplay[scy !CLVL<19]: // 	Scythe
+ItemDisplay[pax !CLVL<19]: // 	Poleaxe
+ItemDisplay[hal !CLVL<19]: // 	Halberd
+ItemDisplay[wsc !CLVL<19]: // 	War Scythe
 //─────────────────────────────────────────────────
-//ItemDisplay[9b7]: // 	Lochaber Axe
-//ItemDisplay[9vo]: // 	Bill
-//ItemDisplay[9s8]: // 	Battle Scythe
-//ItemDisplay[9pa]: // 	Partizan
-//ItemDisplay[9h9]: // 	Bec-de-Corbin
-//ItemDisplay[9wc]: // 	Grim Scythe
+ItemDisplay[9b7 !CLVL<59]: // 	Lochaber Axe
+ItemDisplay[9vo !CLVL<59]: // 	Bill
+ItemDisplay[9s8 !CLVL<59]: // 	Battle Scythe
+ItemDisplay[9pa !CLVL<59]: // 	Partizan
+ItemDisplay[9h9 !CLVL<59]: // 	Bec-de-Corbin
+ItemDisplay[9wc !CLVL<59]: // 	Grim Scythe
 //─────────────────────────────────────────────────
-//ItemDisplay[7o7]: // 	Ogre Axe
-//ItemDisplay[7vo]: // 	Colossus Voulge
-//ItemDisplay[7s8]: // 	Thresher
-//ItemDisplay[7pa]: // 	Cryptic Axe
-//ItemDisplay[7h7]: // 	Great Poleaxe
-//ItemDisplay[7wc]: // 	Giant Thresher
+ItemDisplay[7o7 !CLVL<59]: // 	Ogre Axe
+ItemDisplay[7vo !CLVL<59]: // 	Colossus Voulge
+ItemDisplay[7s8 !CLVL<59]: // 	Thresher
+ItemDisplay[7pa !CLVL<59]: // 	Cryptic Axe
+ItemDisplay[7h7 !CLVL<59]: // 	Great Poleaxe
+ItemDisplay[7wc !CLVL<59]: // 	Giant Thresher
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Staves  ███████ //
-//ItemDisplay[sst]: // 	Short Staff
-//ItemDisplay[lst]: // 	Long Staff
-//ItemDisplay[cst]: // 	Gnarled Staff
-//ItemDisplay[bst]: // 	Battle Staff
-//ItemDisplay[wst]: // 	War Staff
+ItemDisplay[sst !CLVL<19]: // 	Short Staff
+ItemDisplay[lst !CLVL<19]: // 	Long Staff
+ItemDisplay[cst !CLVL<19]: // 	Gnarled Staff
+ItemDisplay[bst !CLVL<19]: // 	Battle Staff
+ItemDisplay[wst !CLVL<19]: // 	War Staff
 //─────────────────────────────────────────────────
-//ItemDisplay[8ss]: // 	Jo Staff
-//ItemDisplay[8ls]: // 	Quarterstaff
-//ItemDisplay[8cs]: // 	Cedar Staff
-//ItemDisplay[8bs]: // 	Gothic Staff
-//ItemDisplay[8ws]: // 	Rune Staff
+ItemDisplay[8ss !CLVL<49]: // 	Jo Staff
+ItemDisplay[8ls !CLVL<49]: // 	Quarterstaff
+ItemDisplay[8cs !CLVL<49]: // 	Cedar Staff
+ItemDisplay[8bs !CLVL<49]: // 	Gothic Staff
+ItemDisplay[8ws !CLVL<49]: // 	Rune Staff
 //─────────────────────────────────────────────────
-//ItemDisplay[6ss]: // 	Walking Stick
-//ItemDisplay[6ls]: // 	Stalagmite
-//ItemDisplay[6cs]: // 	Elder Staff
-//ItemDisplay[6bs]: // 	Shillelah
-//ItemDisplay[6ws]: // 	Archon Staff
+ItemDisplay[6ss !CLVL<49]: // 	Walking Stick
+ItemDisplay[6ls !CLVL<49]: // 	Stalagmite
+ItemDisplay[6cs !CLVL<49]: // 	Elder Staff
+ItemDisplay[6bs !CLVL<49]: // 	Shillelah
+ItemDisplay[6ws !CLVL<49]: // 	Archon Staff
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Bows  ███████ //
-//ItemDisplay[sbw]: // 	Short Bow
-//ItemDisplay[hbw]: // 	Hunter's Bow
-//ItemDisplay[lbw]: // 	Long Bow
-//ItemDisplay[cbw]: // 	Composite Bow
-//ItemDisplay[sbb]: // 	Short Battle Bow
-//ItemDisplay[lbb]: // 	Long Battle Bow
-//ItemDisplay[swb]: // 	Short War Bow
-//ItemDisplay[lwb]: // 	Long War Bow
+ItemDisplay[sbw !CLVL<19]: // 	Short Bow
+ItemDisplay[hbw !CLVL<19]: // 	Hunter's Bow
+ItemDisplay[lbw !CLVL<19]: // 	Long Bow
+ItemDisplay[cbw !CLVL<19]: // 	Composite Bow
+ItemDisplay[sbb !CLVL<19]: // 	Short Battle Bow
+ItemDisplay[lbb !CLVL<19]: // 	Long Battle Bow
+ItemDisplay[swb !CLVL<19]: // 	Short War Bow
+ItemDisplay[lwb !CLVL<19]: // 	Long War Bow
 //─────────────────────────────────────────────────
-//ItemDisplay[8sb]: // 	Edge Bow
-//ItemDisplay[8hb]: // 	Razor Bow
-//ItemDisplay[8lb]: // 	Cedar Bow
-//ItemDisplay[8cb]: // 	Double Bow
-//ItemDisplay[8s8]: //	Short Siege Bow
-//ItemDisplay[8l8]: // 	Long Siege Bow
-//ItemDisplay[8sw]: // 	Rune Bow
-//ItemDisplay[8lw]: // 	Gothic Bow
+ItemDisplay[8sb !CLVL<59]: // 	Edge Bow
+ItemDisplay[8hb !CLVL<59]: // 	Razor Bow
+ItemDisplay[8lb !CLVL<59]: // 	Cedar Bow
+ItemDisplay[8cb !CLVL<59]: // 	Double Bow
+ItemDisplay[8s8 !CLVL<59]: //	  Short Siege Bow
+ItemDisplay[8l8 !CLVL<59]: // 	Long Siege Bow
+ItemDisplay[8sw !CLVL<59]: // 	Rune Bow
+ItemDisplay[8lw !CLVL<59]: // 	Gothic Bow
 //─────────────────────────────────────────────────
-//ItemDisplay[6sb]: // 	Spider Bow
-//ItemDisplay[6hb]: // 	Blade Bow
-//ItemDisplay[6lb]: // 	Shadow Bow
-//ItemDisplay[6cb]: // 	Great Bow
-//ItemDisplay[6s7]: // 	Diamond Bow
-//ItemDisplay[6l7]: //	Crusader Bow
-//ItemDisplay[6sw]: // 	Ward Bow
-//ItemDisplay[6lw]: // 	Hydra Bow
+ItemDisplay[6sb !CLVL<59]: // 	Spider Bow
+ItemDisplay[6hb !CLVL<59]: // 	Blade Bow
+ItemDisplay[6lb !CLVL<59]: // 	Shadow Bow
+ItemDisplay[6cb !CLVL<59]: // 	Great Bow
+ItemDisplay[6s7 !CLVL<59]: // 	Diamond Bow
+ItemDisplay[6l7 !CLVL<59]: //	  Crusader Bow
+ItemDisplay[6sw !CLVL<59]: // 	Ward Bow
+ItemDisplay[6lw !CLVL<59]: // 	Hydra Bow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Crossbows  ███████ //
-//ItemDisplay[lxb]: // 	Light Crossbow
-//ItemDisplay[mxb]: // 	Crossbow
-//ItemDisplay[hxb]: // 	Heavy Crossbow
-//ItemDisplay[rxb]: // 	Repeating Crossbow
+ItemDisplay[lxb !CLVL<19]: // 	Light Crossbow
+ItemDisplay[mxb !CLVL<19]: // 	Crossbow
+ItemDisplay[hxb !CLVL<19]: // 	Heavy Crossbow
+ItemDisplay[rxb !CLVL<19]: // 	Repeating Crossbow
 //─────────────────────────────────────────────────
-//ItemDisplay[8lx]: // 	Arbalest
-//ItemDisplay[8mx]: // 	Siege Crossbow
-//ItemDisplay[8hx]: // 	Balista
-//ItemDisplay[8rx]: // 	Chu-Ko-Nu
+ItemDisplay[8lx !CLVL<19]: // 	Arbalest
+ItemDisplay[8mx !CLVL<19]: // 	Siege Crossbow
+ItemDisplay[8hx !CLVL<19]: // 	Balista
+ItemDisplay[8rx !CLVL<19]: // 	Chu-Ko-Nu
 //─────────────────────────────────────────────────
-//ItemDisplay[6lx]: // 	Pellet Bow
-//ItemDisplay[6mx]: // 	Gorgon Crossbow
-//ItemDisplay[6hx]: // 	Colossus Crossbow
-//ItemDisplay[6rx]: // 	Demon Crossbow
+ItemDisplay[6lx !CLVL<59]: // 	Pellet Bow
+ItemDisplay[6mx !CLVL<59]: // 	Gorgon Crossbow
+ItemDisplay[6hx !CLVL<59]: // 	Colossus Crossbow
+ItemDisplay[6rx !CLVL<59]: // 	Demon Crossbow
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Scepters  ███████ //
-//ItemDisplay[scp]: // 	Scepter
-//ItemDisplay[gsc]: // 	Grand Scepter
-//ItemDisplay[wsp]: // 	War Scepter
+ItemDisplay[scp !CLVL<19]: // 	Scepter
+ItemDisplay[gsc !CLVL<19]: // 	Grand Scepter
+ItemDisplay[wsp !CLVL<19]: // 	War Scepter
 //─────────────────────────────────────────────────
-//ItemDisplay[9sc]: // 	Rune Scepter
-//ItemDisplay[9qs]: // 	Holy Water Sprinkler
-//ItemDisplay[9ws]: // 	Divine Scepter
+ItemDisplay[9sc !CLVL<49]: // 	Rune Scepter
+ItemDisplay[9qs !CLVL<49]: // 	Holy Water Sprinkler
+ItemDisplay[9ws !CLVL<49]: // 	Divine Scepter
 //─────────────────────────────────────────────────
-//ItemDisplay[7sc]: // 	Mighty Scepter
-//ItemDisplay[7qs]: // 	Seraph Rod
-//ItemDisplay[7ws]: //	Caduceus
+ItemDisplay[7sc !CLVL<49]: // 	Mighty Scepter
+ItemDisplay[7qs !CLVL<49]: // 	Seraph Rod
+ItemDisplay[7ws !CLVL<49]: //	Caduceus
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Assassin Weapons  ███████ //
-//ItemDisplay[ktr]: // 	Katar
-//ItemDisplay[wrb]: // 	Wrist Blade
-//ItemDisplay[axf]: // 	Hatchet Hands
-//ItemDisplay[ces]: // 	Cestus
-//ItemDisplay[clw]: // 	Claws
-//ItemDisplay[btl]: // 	Blade Talons
-//ItemDisplay[skr]: // 	Scissors Katar
+ItemDisplay[ktr !CLVL<19]: // 	Katar
+ItemDisplay[wrb !CLVL<19]: // 	Wrist Blade
+ItemDisplay[axf !CLVL<19]: // 	Hatchet Hands
+ItemDisplay[ces !CLVL<19]: // 	Cestus
+ItemDisplay[clw !CLVL<19]: // 	Claws
+ItemDisplay[btl !CLVL<19]: // 	Blade Talons
+ItemDisplay[skr !CLVL<19]: // 	Scissors Katar
 //─────────────────────────────────────────────────
-//ItemDisplay[9ar]: // 	Quhab
-//ItemDisplay[9wb]: // 	Wrist Spike
-//ItemDisplay[9xf]: // 	Fascia
-//ItemDisplay[9cs]: // 	Hand Scythe
-//ItemDisplay[9lw]: // 	Greater Claws
-//ItemDisplay[9tw]: // 	Greater Talons
-//ItemDisplay[9qr]: // 	Scissors Quhab
+ItemDisplay[9ar !CLVL<19]: // 	Quhab
+ItemDisplay[9wb !CLVL<19]: // 	Wrist Spike
+ItemDisplay[9xf !CLVL<19]: // 	Fascia
+ItemDisplay[9cs !CLVL<19]: // 	Hand Scythe
+ItemDisplay[9lw !CLVL<19]: // 	Greater Claws
+ItemDisplay[9tw !CLVL<19]: // 	Greater Talons
+ItemDisplay[9qr !CLVL<19]: // 	Scissors Quhab
 //─────────────────────────────────────────────────
-//ItemDisplay[7ar]: // 	Suwayyah
-//ItemDisplay[7wb]: // 	Wrist Sword
-//ItemDisplay[7xf]: // 	War Fist
-//ItemDisplay[7cs]: // 	Battle Cestus
-//ItemDisplay[7lw]: // 	Feral Claws
-//ItemDisplay[7tw]: // 	Runic Talons
-//ItemDisplay[7qr]: // 	Scissors Suwayyah
+ItemDisplay[7ar !CLVL<59]: // 	Suwayyah
+ItemDisplay[7wb !CLVL<59]: // 	Wrist Sword
+ItemDisplay[7xf !CLVL<59]: // 	War Fist
+ItemDisplay[7cs !CLVL<59]: // 	Battle Cestus
+ItemDisplay[7lw !CLVL<59]: // 	Feral Claws
+ItemDisplay[7tw !CLVL<59]: // 	Runic Talons
+ItemDisplay[7qr !CLVL<59]: // 	Scissors Suwayyah
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Sorc Orbs  ███████ //
-//ItemDisplay[ob1]: // 	Eagle Orb
-//ItemDisplay[ob2]: // 	Sacred Globe
-//ItemDisplay[ob3]: // 	Smoked Sphere
-//ItemDisplay[ob4]: // 	Clasped Orb
-//ItemDisplay[ob5]: // 	Jared's Stone
+ItemDisplay[ob1 !CLVL<19]: // 	Eagle Orb
+ItemDisplay[ob2 !CLVL<19]: // 	Sacred Globe
+ItemDisplay[ob3 !CLVL<19]: // 	Smoked Sphere
+ItemDisplay[ob4 !CLVL<19]: // 	Clasped Orb
+ItemDisplay[ob5 !CLVL<19]: // 	Jared's Stone
 //─────────────────────────────────────────────────
-//ItemDisplay[ob6]: // 	Glowing Orb
-//ItemDisplay[ob7]: // 	Crystalline Globe
-//ItemDisplay[ob8]: // 	Cloudy Sphere
-//ItemDisplay[ob9]: // 	Sparkling Ball
-//ItemDisplay[oba]: // 	Swirling Crystal
+ItemDisplay[ob6 !CLVL<49]: // 	Glowing Orb
+ItemDisplay[ob7 !CLVL<49]: // 	Crystalline Globe
+ItemDisplay[ob8 !CLVL<49]: // 	Cloudy Sphere
+ItemDisplay[ob9 !CLVL<49]: // 	Sparkling Ball
+ItemDisplay[oba !CLVL<49]: // 	Swirling Crystal
 //─────────────────────────────────────────────────
-//ItemDisplay[obb]: // 	Heavenly Stone
-//ItemDisplay[obc]: // 	Eldritch Orb
-//ItemDisplay[obd]: // 	Demon Heart
-//ItemDisplay[obe]: // 	Vortex Orb
-//ItemDisplay[obf]: // 	Dimensional Shard
+ItemDisplay[obb !CLVL<49]: // 	Heavenly Stone
+ItemDisplay[obc !CLVL<49]: // 	Eldritch Orb
+ItemDisplay[obd !CLVL<49]: // 	Demon Heart
+ItemDisplay[obe !CLVL<49]: // 	Vortex Orb
+ItemDisplay[obf !CLVL<49]: // 	Dimensional Shard
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Amazon Bows  ███████ //
-//ItemDisplay[am1]: // 	Stag Bow
-//ItemDisplay[am2]: // 	Reflex Bow
-//ItemDisplay[am3]: // 	Maiden Spear
-//ItemDisplay[am4]: // 	Maiden Pike
-//ItemDisplay[am5]: // 	Maiden Javelin
+ItemDisplay[am1 !CLVL<19]: // 	Stag Bow
+ItemDisplay[am2 !CLVL<19]: // 	Reflex Bow
+ItemDisplay[am3 !CLVL<19]: // 	Maiden Spear
+ItemDisplay[am4 !CLVL<19]: // 	Maiden Pike
+ItemDisplay[am5 !CLVL<19]: // 	Maiden Javelin
 //─────────────────────────────────────────────────
-//ItemDisplay[am6]: // 	Ashwood Bow
-//ItemDisplay[am7]: // 	Ceremonial Bow
-//ItemDisplay[am8]: // 	Ceremonial Spear
-//ItemDisplay[am9]: // 	Ceremonial Pike
-//ItemDisplay[ama]: // 	Ceremonial Javelin
+ItemDisplay[am6 !CLVL<19]: // 	Ashwood Bow
+ItemDisplay[am7 !CLVL<19]: // 	Ceremonial Bow
+ItemDisplay[am8 !CLVL<19]: // 	Ceremonial Spear
+ItemDisplay[am9 !CLVL<19]: // 	Ceremonial Pike
+ItemDisplay[ama !CLVL<19]: // 	Ceremonial Javelin
 //─────────────────────────────────────────────────
-//ItemDisplay[amb]: // 	Matriarchal Bow
-//ItemDisplay[amc]: // 	Grand Matron Bow
-//ItemDisplay[amd]: // 	Matriarchal Spear
-//ItemDisplay[ame]: // 	Matriarchal Pike
-//ItemDisplay[amf]: // 	MatriarchalJavelin
+ItemDisplay[amb !CLVL<59]: // 	Matriarchal Bow
+ItemDisplay[amc !CLVL<59]: // 	Grand Matron Bow
+ItemDisplay[amd !CLVL<59]: // 	Matriarchal Spear
+ItemDisplay[ame !CLVL<59]: // 	Matriarchal Pike
+ItemDisplay[amf !CLVL<59]: // 	MatriarchalJavelin
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Helms  ███████ //
-//ItemDisplay[cap]: // 	Cap/hat
-//ItemDisplay[skp]: // 	Skull Cap
-//ItemDisplay[hlm]: // 	Helm
-//ItemDisplay[fhl]: // 	Full Helm
-//ItemDisplay[ghm]: // 	Great Helm
-//ItemDisplay[crn]: // 	Crown
-//ItemDisplay[msk]: // 	Mask
-//ItemDisplay[bhm]: // 	Bone Helm
+ItemDisplay[cap !CLVL<19]: // 	Cap/hat
+ItemDisplay[skp !CLVL<19]: // 	Skull Cap
+ItemDisplay[hlm !CLVL<19]: // 	Helm
+ItemDisplay[fhl !CLVL<19]: // 	Full Helm
+ItemDisplay[ghm !CLVL<19]: // 	Great Helm
+ItemDisplay[crn !CLVL<19]: // 	Crown
+ItemDisplay[msk !CLVL<19]: // 	Mask
+ItemDisplay[bhm !CLVL<19]: // 	Bone Helm
 //─────────────────────────────────────────────────
-//ItemDisplay[xap]: // 	War Hat
-//ItemDisplay[xkp]: // 	Sallet
-//ItemDisplay[xlm]: // 	Casque
-//ItemDisplay[xhl]: // 	Basinet
-//ItemDisplay[xhm]: // 	Winged Helm
-//ItemDisplay[xrn]: // 	Grand Crown
-//ItemDisplay[xsk]: // 	Death Mask
-//ItemDisplay[xh9]: // 	Grim Helm
+ItemDisplay[xap !CLVL<59]: // 	War Hat
+ItemDisplay[xkp !CLVL<59]: // 	Sallet
+ItemDisplay[xlm !CLVL<59]: // 	Casque
+ItemDisplay[xhl !CLVL<59]: // 	Basinet
+ItemDisplay[xhm !CLVL<59]: // 	Winged Helm
+ItemDisplay[xrn !CLVL<59]: // 	Grand Crown
+ItemDisplay[xsk !CLVL<59]: // 	Death Mask
+ItemDisplay[xh9 !CLVL<59]: // 	Grim Helm
 //─────────────────────────────────────────────────
-//ItemDisplay[uap]: // 	Shako
-//ItemDisplay[ukp]: // 	Hydraskull
-//ItemDisplay[ulm]: // 	Armet
-//ItemDisplay[uhl]: // 	Giant Conch
-//ItemDisplay[uhm]: // 	Spired Helm
-//ItemDisplay[urn]: // 	Corona
-//ItemDisplay[usk]: // 	Demonhead
-//ItemDisplay[uh9]: // 	Bone Visage
+ItemDisplay[uap !CLVL<59]: // 	Shako
+ItemDisplay[ukp !CLVL<59]: // 	Hydraskull
+ItemDisplay[ulm !CLVL<59]: // 	Armet
+ItemDisplay[uhl !CLVL<59]: // 	Giant Conch
+ItemDisplay[uhm !CLVL<59]:  // 	Spired Helm
+ItemDisplay[urn !CLVL<59]: // 	Corona
+ItemDisplay[usk !CLVL<59]: // 	Demonhead
+ItemDisplay[uh9 !CLVL<59]: // 	Bone Visage
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Body Armor  ███████ //
-//ItemDisplay[qui]: // 	Quilted Armor
-//ItemDisplay[lea]: // 	Leather Armor
-//ItemDisplay[hla]: // 	Hard Leather Armor
-//ItemDisplay[stu]: // 	Studded Leather
-//ItemDisplay[rng]: // 	Ring Mail
-//ItemDisplay[scl]: // 	Scale Mail
-//ItemDisplay[chn]: // 	Chain Mail
-//ItemDisplay[brs]: // 	Breast Plate
-//ItemDisplay[spl]: // 	Splint Mail
-//ItemDisplay[plt]: // 	Plate Mail
-//ItemDisplay[fld]: // 	Field Plate
-//ItemDisplay[gth]: // 	Gothic Plate
-//ItemDisplay[ful]: // 	Full Plate Mail
-//ItemDisplay[aar]: // 	Ancient Armor
-//ItemDisplay[ltp]: // 	Light Plate
+ItemDisplay[qui !CLVL<19]: // 	Quilted Armor
+ItemDisplay[lea !CLVL<19]: // 	Leather Armor
+ItemDisplay[hla !CLVL<19]: // 	Hard Leather Armor
+ItemDisplay[stu !CLVL<19]: // 	Studded Leather
+ItemDisplay[rng !CLVL<19]: // 	Ring Mail
+ItemDisplay[scl !CLVL<19]: // 	Scale Mail
+ItemDisplay[chn !CLVL<19]: // 	Chain Mail
+ItemDisplay[brs !CLVL<19]: // 	Breast Plate
+ItemDisplay[spl !CLVL<19]: // 	Splint Mail
+ItemDisplay[plt !CLVL<19]: // 	Plate Mail
+ItemDisplay[fld !CLVL<19]: // 	Field Plate
+ItemDisplay[gth !CLVL<19]: // 	Gothic Plate
+ItemDisplay[ful !CLVL<19]: // 	Full Plate Mail
+ItemDisplay[aar !CLVL<19]: // 	Ancient Armor
+ItemDisplay[ltp !CLVL<19]: // 	Light Plate
 //─────────────────────────────────────────────────
-//ItemDisplay[xui]: // 	Ghost Armor
-//ItemDisplay[xea]: // 	Serpentskin Armor
-//ItemDisplay[xla]: // 	Demonhide Armor
-//ItemDisplay[xtu]: // 	Trellised Armor
-//ItemDisplay[xng]: // 	Linked Mail
-//ItemDisplay[xcl]: // 	Tigulated Mail
-//ItemDisplay[xhn]: // 	Mesh Armor
-//ItemDisplay[xrs]: // 	Cuirass
-//ItemDisplay[xpl]: // 	Russet Armor
-//ItemDisplay[xlt]: // 	Templar Coat
-//ItemDisplay[xld]: // 	Sharktooth Armor
-//ItemDisplay[xth]: // 	Embossed Plate
-//ItemDisplay[xul]: // 	Chaos Armor
-//ItemDisplay[xar]: // 	Ornate Armor
-//ItemDisplay[xtp]: // 	Mage Plate
+ItemDisplay[xui !CLVL<59]: // 	Ghost Armor
+ItemDisplay[xea !CLVL<59]: // 	Serpentskin Armor
+ItemDisplay[xla !CLVL<59]: // 	Demonhide Armor
+ItemDisplay[xtu !CLVL<49]: // 	Trellised Armor
+ItemDisplay[xng !CLVL<49]: // 	Linked Mail
+ItemDisplay[xcl !CLVL<49]: // 	Tigulated Mail
+ItemDisplay[xhn !CLVL<49]: // 	Mesh Armor
+ItemDisplay[xrs !CLVL<49]: // 	Cuirass
+ItemDisplay[xpl !CLVL<49]: // 	Russet Armor
+ItemDisplay[xlt !CLVL<49]: // 	Templar Coat
+ItemDisplay[xld !CLVL<49]: // 	Sharktooth Armor
+ItemDisplay[xth !CLVL<49]: // 	Embossed Plate
+ItemDisplay[xul !CLVL<49]: // 	Chaos Armor
+ItemDisplay[xar !CLVL<49]: // 	Ornate Armor
+ItemDisplay[xtp !CLVL<49]: // 	Mage Plate
 //─────────────────────────────────────────────────
-//ItemDisplay[uui]: // 	Dusk Shroud
-//ItemDisplay[uea]: // 	Wyrmhide
-//ItemDisplay[ula]: // 	Scarab Husk
-//ItemDisplay[utu]: // 	Wire Fleece
-//ItemDisplay[ung]: // 	Diamond Mail
-//ItemDisplay[ucl]: // 	Loricated Mail
-//ItemDisplay[uhn]: // 	Boneweave
-//ItemDisplay[urs]: // 	Great Hauberk
-//ItemDisplay[upl]: // 	Balrog Skin
-//ItemDisplay[uld]: // 	Kraken Shell
-//ItemDisplay[ult]: // 	Hellforged Plate
-//ItemDisplay[uth]: // 	Lacquered Plate
-//ItemDisplay[uul]: // 	Shadow Plate
-//ItemDisplay[uar]: // 	Sacred Armor
-//ItemDisplay[utp]: // 	Archon Plate
+ItemDisplay[uui]: // 	Dusk Shroud
+ItemDisplay[uea]: // 	Wyrmhide
+ItemDisplay[ula]: // 	Scarab Husk
+ItemDisplay[utu]: // 	Wire Fleece
+ItemDisplay[ung]: // 	Diamond Mail
+ItemDisplay[ucl]: // 	Loricated Mail
+ItemDisplay[uhn]: // 	Boneweave
+ItemDisplay[urs]: // 	Great Hauberk
+ItemDisplay[upl]: // 	Balrog Skin
+ItemDisplay[uld]: // 	Kraken Shell
+ItemDisplay[ult]: // 	Hellforged Plate
+ItemDisplay[uth]: // 	Lacquered Plate
+ItemDisplay[uul]: // 	Shadow Plate
+ItemDisplay[uar]: // 	Sacred Armor
+ItemDisplay[utp]: // 	Archon Plate
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Shields  ███████ //
-//ItemDisplay[buc]: // 	Buckler
-//ItemDisplay[sml]: // 	Small Shield
-//ItemDisplay[lrg]: // 	Large Shield
-//ItemDisplay[kit]: // 	Kite Shield
-//ItemDisplay[tow]: // 	Tower Shield
-//ItemDisplay[gts]: // 	Gothic Shield
-//ItemDisplay[bsh]: // 	Bone Shield
-//ItemDisplay[spk]: // 	Spiked Shield
+ItemDisplay[buc !CLVL<19]: // 	Buckler
+ItemDisplay[sml !CLVL<19]: // 	Small Shield
+ItemDisplay[lrg !CLVL<19]: // 	Large Shield
+ItemDisplay[kit !CLVL<19]: // 	Kite Shield
+ItemDisplay[tow !CLVL<19]: // 	Tower Shield
+ItemDisplay[gts !CLVL<19]: // 	Gothic Shield
+ItemDisplay[bsh !CLVL<19]: // 	Bone Shield
+ItemDisplay[spk !CLVL<19]: // 	Spiked Shield
 //─────────────────────────────────────────────────
-//ItemDisplay[xuc]: // 	Defender
-//ItemDisplay[xml]: // 	Round Shield
-//ItemDisplay[xrg]: // 	Scutum
-//ItemDisplay[xit]: // 	Dragon Shield
-//ItemDisplay[xow]: // 	Pavise
-//ItemDisplay[xts]: // 	Ancient Shield
-//ItemDisplay[xsh]: // 	Grim Shield
-//ItemDisplay[xpk]: // 	Barbed Shield
+ItemDisplay[xuc !CLVL<59]: // 	Defender
+ItemDisplay[xml !CLVL<59]: // 	Round Shield
+ItemDisplay[xrg !CLVL<59]: // 	Scutum
+ItemDisplay[xit !CLVL<59]: // 	Dragon Shield
+ItemDisplay[xow !CLVL<59]: // 	Pavise
+ItemDisplay[xts !CLVL<59]: // 	Ancient Shield
+ItemDisplay[xsh !CLVL<59]: // 	Grim Shield
+ItemDisplay[xpk !CLVL<59]: // 	Barbed Shield
 //─────────────────────────────────────────────────
-//ItemDisplay[uuc]: // 	Heater
-//ItemDisplay[uml]: // 	Luna
-//ItemDisplay[urg]: // 	Hyperion
-//ItemDisplay[uit]: // 	Monarch
-//ItemDisplay[uow]: // 	Aegis
-//ItemDisplay[uts]: // 	Ward
-//ItemDisplay[ush]: // 	Troll Nest
-//ItemDisplay[upk]: // 	Blade Barrier
+ItemDisplay[uuc !CLVL<59]: // 	Heater
+ItemDisplay[uml !CLVL<59]: // 	Luna
+ItemDisplay[urg !CLVL<59]: // 	Hyperion
+ItemDisplay[uit !CLVL<49]: // 	Monarch
+ItemDisplay[uow !CLVL<59]: // 	Aegis
+ItemDisplay[uts !CLVL<59]: // 	Ward
+ItemDisplay[ush !CLVL<59]: // 	Troll Nest
+ItemDisplay[upk !CLVL<59]: // 	Blade Barrier
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Gloves  ███████ //
-//ItemDisplay[lgl]: // 	Gloves
-//ItemDisplay[vgl]: // 	Heavy Gloves
-//ItemDisplay[mgl]: // 	Chain Gloves
-//ItemDisplay[tgl]: // 	Light Gauntlets
-//ItemDisplay[hgl]: // 	Gauntlets
+ItemDisplay[lgl !CLVL<19]: // 	Gloves
+ItemDisplay[vgl !CLVL<19]: // 	Heavy Gloves
+ItemDisplay[mgl !CLVL<19]: // 	Chain Gloves
+ItemDisplay[tgl !CLVL<19]: // 	Light Gauntlets
+ItemDisplay[hgl !CLVL<19]: // 	Gauntlets
 //─────────────────────────────────────────────────
-//ItemDisplay[xlg]: // 	Demonhide Gloves
-//ItemDisplay[xvg]: // 	Sharkskin Gloves
-//ItemDisplay[xmg]: // 	Heavy Bracers
-//ItemDisplay[xtg]: // 	Battle Gauntlets
-//ItemDisplay[xhg]: // 	War Gauntlets
+ItemDisplay[!CLVL<59 xlg]: // 	Demonhide Gloves
+ItemDisplay[!CLVL<59 xvg]: // 	Sharkskin Gloves
+ItemDisplay[!CLVL<59 xmg]: // 	Heavy Bracers
+ItemDisplay[!CLVL<59 xtg]: // 	Battle Gauntlets
+ItemDisplay[!CLVL<59 xhg]: // 	War Gauntlets
 //─────────────────────────────────────────────────
-//ItemDisplay[ulg]: // 	Bramble Mitts
-//ItemDisplay[uvg]: // 	Vampirebone Gloves
-//ItemDisplay[umg]: // 	Vambraces
-//ItemDisplay[utg]: // 	Crusader Gauntlets
-//ItemDisplay[uhg]: // 	Ogre Gauntlets
+ItemDisplay[!CLVL<59 ulg]: // 	Bramble Mitts
+ItemDisplay[!CLVL<59 uvg]: // 	Vampirebone Gloves
+ItemDisplay[umg !CLVL<59]:   // 	Vambraces
+ItemDisplay[!CLVL<59 utg]: // 	Crusader Gauntlets
+ItemDisplay[!CLVL<59 uhg]: // 	Ogre Gauntlets
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Boots  ███████ //
-//ItemDisplay[lbt]: // 	Leather Boots
-//ItemDisplay[vbt]: // 	Heavy Boots
-//ItemDisplay[mbt]: // 	Chain Boots
-//ItemDisplay[tbt]: // 	Light Plate Boots
-//ItemDisplay[hbt]: // 	Greaves
+ItemDisplay[lbt !CLVL<19]: // 	Leather Boots
+ItemDisplay[vbt !CLVL<19]: // 	Heavy Boots
+ItemDisplay[mbt !CLVL<19]: // 	Chain Boots
+ItemDisplay[!CLVL<59 tbt]: // 	Light Plate Boots
+ItemDisplay[!CLVL<59 hbt]: // 	Greaves
 //─────────────────────────────────────────────────
-//ItemDisplay[xlb]: // 	Demonhide Boots
-//ItemDisplay[xvb]: // 	Sharkskin Boots
-//ItemDisplay[xmb]: // 	Mesh Boots
-//ItemDisplay[xtb]: // 	Battle Boots
-//ItemDisplay[xhb]: // 	War Boots
+ItemDisplay[!CLVL<59 xlb]: // 	Demonhide Boots
+ItemDisplay[!CLVL<59 xvb]: // 	Sharkskin Boots
+ItemDisplay[!CLVL<59 xmb]: // 	Mesh Boots
+ItemDisplay[!CLVL<59 xtb]: // 	Battle Boots
+ItemDisplay[!CLVL<59 xhb]: // 	War Boots
 //─────────────────────────────────────────────────
-//ItemDisplay[ulb]: // 	Wyrmhide Boots
-//ItemDisplay[uvb]: // 	Scarabshell Boots
-//ItemDisplay[umb]: // 	Boneweave Boots
-//ItemDisplay[utb]: // 	Mirrored Boots
-//ItemDisplay[uhb]: // 	Myrmidon Greaves
+ItemDisplay[!CLVL<59 ulb]: // 	Wyrmhide Boots
+ItemDisplay[!CLVL<59 uvb]: // 	Scarabshell Boots
+ItemDisplay[!CLVL<59 umb]: // 	Boneweave Boots
+ItemDisplay[!CLVL<59 utb]: // 	Mirrored Boots
+ItemDisplay[!CLVL<59 uhb]: // 	Myrmidon Greaves
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Belts  ███████ //
-//ItemDisplay[lbl]: // 	Sash
-//ItemDisplay[vbl]: // 	Light Belt
-//ItemDisplay[mbl]: // 	Belt
-//ItemDisplay[tbl]: // 	Heavy Belt
-//ItemDisplay[hbl]: // 	Plated Belt
+ItemDisplay[lbl !CLVL<19]: // 	Sash
+ItemDisplay[vbl !CLVL<19]: // 	Light Belt
+ItemDisplay[mbl !CLVL<19]: // 	Belt
+ItemDisplay[tbl !CLVL<19]: // 	Heavy Belt
+ItemDisplay[hbl !CLVL<19]: // 	Plated Belt
 //─────────────────────────────────────────────────
-//ItemDisplay[zlb]: // 	Demonhide Sash
-//ItemDisplay[zvb]: // 	Sharkskin Belt
-//ItemDisplay[zmb]: // 	Mesh Belt
-//ItemDisplay[ztb]: // 	Battle Belt
-//ItemDisplay[zhb]: // 	War Belt
+ItemDisplay[zlb !CLVL<59]: // 	Demonhide Sash
+ItemDisplay[zvb !CLVL<59]: // 	Sharkskin Belt
+ItemDisplay[zmb !CLVL<59]: // 	Mesh Belt
+ItemDisplay[ztb !CLVL<59]: // 	Battle Belt
+ItemDisplay[zhb !CLVL<59]: // 	War Belt
 //─────────────────────────────────────────────────
-//ItemDisplay[ulc]: // 	Spiderweb Sash
-//ItemDisplay[uvc]: // 	Vampirefang Belt
-//ItemDisplay[umc]: // 	Mithril Coil
-//ItemDisplay[utc]: // 	Troll Belt
-//ItemDisplay[uhc]: // 	Colossus Girdle
+ItemDisplay[!CLVL<59 ulc]: // 	Spiderweb Sash
+ItemDisplay[!CLVL<59 uvc]: // 	Vampirefang Belt
+ItemDisplay[!CLVL<59 umc]: // 	Mithril Coil
+ItemDisplay[!CLVL<59 utc]: // 	Troll Belt
+ItemDisplay[!CLVL<59 uhc]: // 	Colossus Girdle
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Druid Pelts  ███████ //
-//ItemDisplay[dr1]: // 	Wolf Head
-//ItemDisplay[dr2]: // 	Hawk Helm
-//ItemDisplay[dr3]: // 	Antlers
-//ItemDisplay[dr4]: // 	Falcon Mask
-//ItemDisplay[dr5]: // 	Spirit Mask
+ItemDisplay[dr1 !CLVL<49]: // 	Wolf Head
+ItemDisplay[dr2 !CLVL<49]: // 	Hawk Helm
+ItemDisplay[dr3 !CLVL<49]: // 	Antlers
+ItemDisplay[dr4 !CLVL<49]: // 	Falcon Mask
+ItemDisplay[dr5 !CLVL<49]: // 	Spirit Mask
 //─────────────────────────────────────────────────
-//ItemDisplay[dr6]: // 	Alpha Helm
-//ItemDisplay[dr7]: // 	Griffon Headress
-//ItemDisplay[dr8]: // 	Hunter's Guise
-//ItemDisplay[dr9]: // 	Sacred Feathers
-//ItemDisplay[dra]: // 	Totemic Mask
+ItemDisplay[dr6 !CLVL<49]: // 	Alpha Helm
+ItemDisplay[dr7 !CLVL<49]: // 	Griffon Headress
+ItemDisplay[dr8 !CLVL<49]: // 	Hunter's Guise
+ItemDisplay[dr9 !CLVL<49]: // 	Sacred Feathers
+ItemDisplay[dra !CLVL<49]: // 	Totemic Mask
 //─────────────────────────────────────────────────
-//ItemDisplay[drb]: // 	Blood Spirt
-//ItemDisplay[drc]: // 	Sun Spirit
-//ItemDisplay[drd]: // 	Earth Spirit
-//ItemDisplay[dre]: // 	Sky Spirit
-//ItemDisplay[drf]: // 	Dream Spirit
+ItemDisplay[drb !CLVL<49]: // 	Blood Spirt
+ItemDisplay[drc !CLVL<49]: // 	Sun Spirit
+ItemDisplay[drd !CLVL<49]: // 	Earth Spirit
+ItemDisplay[dre !CLVL<49]: // 	Sky Spirit
+ItemDisplay[drf !CLVL<49]: // 	Dream Spirit
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Barb Helms  ███████ //
-//ItemDisplay[ba1]: // 	Jawbone Cap
-//ItemDisplay[ba2]: // 	Fanged Helm
-//ItemDisplay[ba3]: // 	Horned Helm
-//ItemDisplay[ba4]: // 	Assault Helmet
-//ItemDisplay[ba5]: // 	Avenger Guard
+ItemDisplay[ba1 !CLVL<19]: // 	Jawbone Cap
+ItemDisplay[ba2 !CLVL<19]: // 	Fanged Helm
+ItemDisplay[ba3 !CLVL<19]: // 	Horned Helm
+ItemDisplay[ba4 !CLVL<19]: // 	Assault Helmet
+ItemDisplay[ba5 !CLVL<19]: // 	Avenger Guard
 //─────────────────────────────────────────────────
-//ItemDisplay[ba6]: // 	Jawbone Visor
-//ItemDisplay[ba7]: // 	Lion Helm
-//ItemDisplay[ba8]: // 	Rage Mask
-//ItemDisplay[ba9]: // 	Savage Helmet
-//ItemDisplay[baa]: // 	Slayer Guard
+ItemDisplay[ba6 !CLVL<59]: // 	Jawbone Visor
+ItemDisplay[ba7 !CLVL<59]: // 	Lion Helm
+ItemDisplay[ba8 !CLVL<59]: // 	Rage Mask
+ItemDisplay[ba9 !CLVL<59]: // 	Savage Helmet
+ItemDisplay[baa !CLVL<59]: // 	Slayer Guard
 //─────────────────────────────────────────────────
-//ItemDisplay[bab]: // 	Carnage Helm
-//ItemDisplay[bac]: // 	Fury Visor
-//ItemDisplay[bad]: // 	Destroyer Helm
-//ItemDisplay[bae]: // 	Conquerer Crown
-//ItemDisplay[baf]: // 	Guardian Crown
+ItemDisplay[bab !CLVL<59]: // 	Carnage Helm
+ItemDisplay[bac !CLVL<59]: // 	Fury Visor
+ItemDisplay[bad !CLVL<59]: // 	Destroyer Helm
+ItemDisplay[bae !CLVL<59]: // 	Conquerer Crown
+ItemDisplay[baf !CLVL<59]: // 	Guardian Crown
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Paladin Shields  ███████ //
-//ItemDisplay[pa1]: // 	Targe
-//ItemDisplay[pa2]: // 	Rondache
-//ItemDisplay[pa3]: // 	Heraldic Shield
-//ItemDisplay[pa4]: // 	Aerin Shield
-//ItemDisplay[pa5]: // 	Crown Shield
+ItemDisplay[pa1 !CLVL<19]: // 	Targe
+ItemDisplay[pa2 !CLVL<19]: // 	Rondache
+ItemDisplay[pa3 !CLVL<19]: // 	Heraldic Shield
+ItemDisplay[pa4 !CLVL<19]: // 	Aerin Shield
+ItemDisplay[pa5 !CLVL<19]: // 	Crown Shield
 //─────────────────────────────────────────────────
-//ItemDisplay[pa6]: // 	Akaran Targe
-//ItemDisplay[pa7]: //	Akaran Rondache
-//ItemDisplay[pa8]: // 	Protector Shield
-//ItemDisplay[pa9]: //	Gilded Shield
-//ItemDisplay[paa]: // 	Royal Shield
+ItemDisplay[pa6 !CLVL<59]: // 	Akaran Targe
+ItemDisplay[pa7 !CLVL<59]: //	Akaran Rondache
+ItemDisplay[pa8 !CLVL<59]: // 	Protector Shield
+ItemDisplay[pa9 !CLVL<59]: //	Gilded Shield
+ItemDisplay[paa !CLVL<59]: // 	Royal Shield
 //─────────────────────────────────────────────────
-//ItemDisplay[pab]: // 	Sacred Targe
-//ItemDisplay[pac]: // 	Sacred Rondache
-//ItemDisplay[pad]: // 	Ancient Shield
-//ItemDisplay[pae]: // 	Zakarum Shield
-//ItemDisplay[paf]: // 	Vortex Shield
+ItemDisplay[!CLVL<59 pab]: // 	Sacred Targe
+ItemDisplay[!CLVL<59 pac]: // 	Sacred Rondache
+ItemDisplay[!CLVL<59 pad]: // 	Ancient Shield
+ItemDisplay[!CLVL<59 pae]: // 	Zakarum Shield
+ItemDisplay[!CLVL<59 paf]: // 	Vortex Shield
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Necro Shields  ███████ //
-//ItemDisplay[ne1]: // 	Preserved Head
-//ItemDisplay[ne2]: // 	Zombie Head
-//ItemDisplay[ne3]: // 	Unraveller Head
-//ItemDisplay[ne4]: // 	Gargoyle Head
-//ItemDisplay[ne5]: // 	Demon Head
+ItemDisplay[!CLVL<59 ne1]: // 	Preserved Head
+ItemDisplay[!CLVL<59 ne2]: // 	Zombie Head
+ItemDisplay[!CLVL<59 ne3]: // 	Unraveller Head
+ItemDisplay[!CLVL<59 ne4]: // 	Gargoyle Head
+ItemDisplay[!CLVL<59 ne5]: // 	Demon Head
 //─────────────────────────────────────────────────
-//ItemDisplay[ne6]: // 	Mummified Trophy
-//ItemDisplay[ne7]: // 	Fetish Trophy
-//ItemDisplay[ne8]: // 	Sexton Trophy
-//ItemDisplay[ne9]: // 	Cantor Trophy
-//ItemDisplay[nea]: // 	Hierophant Trophy
+ItemDisplay[ne6 !CLVL<49]: // 	Mummified Trophy
+ItemDisplay[ne7 !CLVL<49]: // 	Fetish Trophy
+ItemDisplay[ne8 !CLVL<49]: // 	Sexton Trophy
+ItemDisplay[ne9 !CLVL<49]: // 	Cantor Trophy
+ItemDisplay[nea !CLVL<49]: // 	Hierophant Trophy
 //─────────────────────────────────────────────────
-//ItemDisplay[neb]: // 	Minion Skull
-//ItemDisplay[neg]: // 	Hellspawn Skull
-//ItemDisplay[ned]: // 	Overseer Skull
-//ItemDisplay[nee]: // 	Succubae Skull
-//ItemDisplay[nef]: // 	Bloodlord Skull
+ItemDisplay[neb !CLVL<49]: // 	Minion Skull
+ItemDisplay[neg !CLVL<49]: // 	Hellspawn Skull
+ItemDisplay[ned !CLVL<49]: // 	Overseer Skull
+ItemDisplay[nee !CLVL<49]: // 	Succubae Skull
+ItemDisplay[nef !CLVL<49]: // 	Bloodlord Skull
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Other Headgear  ███████ //
-//ItemDisplay[ci0]: // 	Circlet
-//ItemDisplay[ci1]: // 	Coronet
+ItemDisplay[ci0]: // 	Circlet
+ItemDisplay[ci1]: // 	Coronet
 ItemDisplay[ci2]: %NAME% [L%ILVL%]
 ItemDisplay[ci3]: %NAME% [L%ILVL%]
 //─────────────────────────────────────────────────────────────────────────────────────────────────
