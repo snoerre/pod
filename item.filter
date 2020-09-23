@@ -243,7 +243,7 @@ ItemDisplay[SET !ID vbt]: // Cow King's Hooves
 ItemDisplay[SET !ID xap]: // Cow King's Horns
 ItemDisplay[SET !ID stu]: // Cow King's Hide
 ItemDisplay[SET !ID uui]: // Dark Adherent
-ItemDisplay[SET !ID ulg]: // Laying of Hands
+ItemDisplay[SET !ID ulg]: %RED%O %GREEN%%NAME% %DGREEN%Laying of Hands %RED%Oe
 ItemDisplay[SET !ID umc]: // Credendum
 ItemDisplay[SET !ID xlb]: // Rite of Passage
 ItemDisplay[SET !ID uhm]: // Ondal's Mighty
@@ -288,7 +288,7 @@ ItemDisplay[SET !ID uld]: // M'avina's Embrace
 ItemDisplay[SET !ID ci3]: // M'avina's True Sight
 ItemDisplay[SET !ID xtg]: // M'avina's Icy Clutch
 ItemDisplay[SET !ID zvb]: // M'avina's Tenet
-ItemDisplay[SET !ID 7qr]: // Natalya's Mark
+ItemDisplay[SET !ID 7qr]: %RED%O %GREEN%%NAME% %DGREEN%Nat's %RED%Ot
 ItemDisplay[SET !ID ucl]: // Natalya's Shadow
 ItemDisplay[SET !ID xh9]: // Natalya's Totem
 ItemDisplay[SET !ID xmb]: // Natalya's Soul
@@ -400,7 +400,7 @@ ItemDisplay[UNI !ID 9sm]: // 	Coldsteel Eye Cutlass
 ItemDisplay[UNI !ID 9sb]: // 	Hexfire Shamshir
 ItemDisplay[UNI !ID 9fc]: // 	Blade of Ali Baba Tulwar
 ItemDisplay[UNI !ID 9cr]: // 	Ginther's Rift Dimensional Blade
-ItemDisplay[UNI !ID 9bs]: // 	Headstriker Battle Sword
+ItemDisplay[UNI !ID 9bs]: %RED%Headstriker
 ItemDisplay[UNI !ID 9ls]: // 	Plague Bearer Rune Sword
 ItemDisplay[UNI !ID 9wd]: // 	The Atlantean Ancient Sword
 ItemDisplay[UNI !ID 92h]: // 	Crainte Vomir Espadon
@@ -551,7 +551,7 @@ ItemDisplay[UNI !ID 7ws]: //	Astreon's Iron Ward Caduceus
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Assassin Weapons  ███████ //
 ItemDisplay[UNI !ID 9tw]: // 	Bartuc's Cut-Throat Greater Talons
-ItemDisplay[UNI !ID 7wb]: %RED%O	Jade Talon Wrist Sword %RED%O
+ItemDisplay[UNI !ID 7wb]: //	Jade Talon Wrist Sword %RED%O
 ItemDisplay[UNI !ID 7cs]: // 	Shadow Killer Battle Cestus
 ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 //─────────────────────────────────────────────────────────────────────────────────────────────────
