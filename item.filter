@@ -62,9 +62,9 @@ ItemDisplay[isc]: // Identify Scroll
 ItemDisplay[ibk]: // Identify Tome
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Jewelry  ███████ //
-ItemDisplay[amu]: // amulet
-ItemDisplay[rin]: // rings
-ItemDisplay[jew]: // Jewel
+// ItemDisplay[amu]: // amulet
+// ItemDisplay[rin]: // rings
+// ItemDisplay[jew]: // Jewel
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Arrows and Bolts  ███████ //
 ItemDisplay[aqv]: //	Rusted Arrows
@@ -139,9 +139,16 @@ ItemDisplay[gpl]: // 	Strangling Gas Potion
 ItemDisplay[opl]: // 	Fulminating Potion
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Charms  ███████ //
-ItemDisplay[cm1]: %NAME%%WHITE% [L%ILVL%]
+ItemDisplay[MAG cm1 !ID ILVL>89]: %BLUE%¤ %NAME% %ORANGE%[L%ILVL%]%BLUE% 
+ItemDisplay[MAG cm1 !ID ILVL<90 ILVL>47]: %BLUE%¤ %NAME% %WHITE%[L%ILVL%]%BLUE% 
+ItemDisplay[MAG cm1 !ID ILVL=47]: %BLUE%¤ %NAME% %ORANGE%[L%ILVL%]%BLUE% 
+ItemDisplay[MAG cm1 ILVL=47]: %NAME% %ORANGE%[L%ILVL%]
+ItemDisplay[MAG cm1 ILVL>89]: %NAME% %ORANGE%[L%ILVL%]
 ItemDisplay[cm2]: // 	Large Charm
-ItemDisplay[cm3]: %NAME%%WHITE% [L%ILVL%]
+ItemDisplay[MAG cm3 !ID ILVL>77]: %BLUE%¤ %NAME% %ORANGE%[L%ILVL%]%BLUE% 
+ItemDisplay[MAG cm3 ILVL>77]: %NAME% %ORANGE%[L%ILVL%]
+ItemDisplay[MAG cm3 !ID ILVL<78 ILVL>49]: %BLUE%¤ %NAME% %WHITE%[L%ILVL%]%BLUE% 
+ItemDisplay[!UNI (cm1 OR cm3)]: %NAME%%WHITE% [L%ILVL%]
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Runes  ███████ //
 ItemDisplay[r01]: // 	El Rune
@@ -1358,8 +1365,8 @@ ItemDisplay[nee !CLVL<49]: // 	Succubae Skull
 ItemDisplay[nef !CLVL<49]: // 	Bloodlord Skull
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Other Headgear  ███████ //
-ItemDisplay[ci0]: // 	Circlet
-ItemDisplay[ci1]: // 	Coronet
+ItemDisplay[ci0]: %NAME% [L%ILVL%]
+ItemDisplay[ci1]: %NAME% [L%ILVL%]
 ItemDisplay[ci2]: %NAME% [L%ILVL%]
 ItemDisplay[ci3]: %NAME% [L%ILVL%]
 //─────────────────────────────────────────────────────────────────────────────────────────────────
