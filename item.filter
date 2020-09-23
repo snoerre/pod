@@ -62,8 +62,8 @@ ItemDisplay[isc]: // Identify Scroll
 ItemDisplay[ibk]: // Identify Tome
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Jewelry  ███████ //
-// ItemDisplay[amu]: // amulet
-// ItemDisplay[rin]: // rings
+ItemDisplay[MAG amu ILVL<95]: //
+ItemDisplay[MAG rin ILVL<95]: //
 // ItemDisplay[jew]: // Jewel
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Arrows and Bolts  ███████ //
