@@ -161,9 +161,9 @@ ItemDisplay[r07]: // 	Tal Rune
 ItemDisplay[r08]: // 	Ral Rune
 ItemDisplay[r09]: // 	Ort Rune
 ItemDisplay[r10]: // 	Thul Rune
-ItemDisplay[r11]: // 	Amn Rune
+ItemDisplay[r11]: Amn Rune
 ItemDisplay[r12]: // 	Sol Rune
-ItemDisplay[r13]: // 	Shael Rune
+ItemDisplay[r13]: Shael Rune
 ItemDisplay[r14]: // 	Dol Rune
 ItemDisplay[r15]: // 	Hel Rune
 ItemDisplay[r16]: %TAN%%RUNENAME% [%RUNENUM%] 
