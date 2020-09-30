@@ -250,7 +250,7 @@ ItemDisplay[SET !ID vbt]: // Cow King's Hooves
 ItemDisplay[SET !ID xap]: // Cow King's Horns
 ItemDisplay[SET !ID stu]: // Cow King's Hide
 ItemDisplay[SET !ID uui]: // Dark Adherent
-ItemDisplay[SET !ID ulg]: %RED%O %GREEN%%NAME% %DGREEN%Laying of Hands %RED%Oe
+ItemDisplay[SET !ID ulg]: %RED%O %GREEN%%NAME% %DGREEN%Laying of Hands %RED%O
 ItemDisplay[SET !ID umc]: // Credendum
 ItemDisplay[SET !ID xlb]: // Rite of Passage
 ItemDisplay[SET !ID uhm]: // Ondal's Mighty
@@ -273,7 +273,7 @@ ItemDisplay[SET !ID xhl]: // Sazabi's Mental Sheath
 ItemDisplay[SET !ID 9mt]: // Aldur's Rhythm
 ItemDisplay[SET !ID uul]: // Aldur's Deception
 ItemDisplay[SET !ID dr8]: // Aldur's Stony Gaze
-ItemDisplay[SET !ID xtb]: %RED%O %GREEN%%NAME% %DGREEN%Aldur's %RED%Oe
+ItemDisplay[SET !ID xtb]: %RED%O %GREEN%%NAME% %DGREEN%Aldur's %RED%O
 ItemDisplay[SET !ID 7gd]: // Bul-Kathos' Sacred Charge
 ItemDisplay[SET !ID 7wd]: // Bul-Kathos' Tribal Guardian
 ItemDisplay[SET !ID 7ws]: // Griswold's Redemption
@@ -295,11 +295,11 @@ ItemDisplay[SET !ID uld]: // M'avina's Embrace
 ItemDisplay[SET !ID ci3]: // M'avina's True Sight
 ItemDisplay[SET !ID xtg]: // M'avina's Icy Clutch
 ItemDisplay[SET !ID zvb]: // M'avina's Tenet
-ItemDisplay[SET !ID 7qr]: %RED%O %GREEN%%NAME% %DGREEN%Nat's %RED%Ot
+ItemDisplay[SET !ID 7qr]: %RED%O %GREEN%%NAME% %DGREEN%Nat's %RED%O
 ItemDisplay[SET !ID ucl]: // Natalya's Shadow
 ItemDisplay[SET !ID xh9]: // Natalya's Totem
 ItemDisplay[SET !ID xmb]: // Natalya's Soul
-ItemDisplay[SET !ID oba]: %RED%O %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%Ot
+ItemDisplay[SET !ID oba]: %RED%O %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%O
 ItemDisplay[SET !ID uth]: %PURPLE%O %GREEN%%NAME% %DGREEN%Tal Rasha's %PURPLE%O
 ItemDisplay[SET !ID xsk]: // Tal Rasha's Horadric Crest
 ItemDisplay[SET !ID zmb]: // Tal Rasha's Fine-Spun Cloth
@@ -689,17 +689,17 @@ ItemDisplay[UNI !ID uhg]: %RED%Steelrend
 ItemDisplay[UNI !ID lbt]: // 	Hotspur Boots
 ItemDisplay[UNI !ID vbt]: // 	Gorefoot Heavy Boots
 ItemDisplay[UNI !ID mbt]: // 	Treads of Cthon Chain Boots
-ItemDisplay[UNI !ID tbt]: %RED%Goblin Toe
+ItemDisplay[UNI !ID tbt]: // %RED%Goblin Toe
 ItemDisplay[UNI !ID hbt]: // 	Tearhaunch Greaves
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID xlb]: // 	Infernostride Demonhide Boots
 ItemDisplay[UNI !ID xvb]: %RED%O Waterwalk %RED%O
 ItemDisplay[UNI !ID xmb]: %RED%O Silkweave %RED%O
 ItemDisplay[UNI !ID xtb]: %RED%O %PURPLE%War Traveler %RED%O
-ItemDisplay[UNI !ID xhb]: %RED%O %PURPLE%Gore Rider %RED%O
+ItemDisplay[UNI !ID xhb]: // %RED%O %PURPLE%Gore Rider %RED%O
 //─────────────────────────────────────────────────
-ItemDisplay[UNI !ID uvb]: %RED%Sandstorm Trek
-ItemDisplay[UNI !ID umb]: %RED%Marrowwalks
+ItemDisplay[UNI !ID uvb]: // %RED%Sandstorm Trek
+ItemDisplay[UNI !ID umb]: // %RED%Marrowwalks
 ItemDisplay[UNI !ID uhb]: %RED%O Shadow Dancer %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Belts  ███████ //
