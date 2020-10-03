@@ -640,7 +640,7 @@ ItemDisplay[UNI !ID upl]: %RED%O %PURPLE%Arkaine's Valor %RED%O
 ItemDisplay[UNI !ID uld]: // 	Leviathan Kraken Shell
 ItemDisplay[UNI !ID ult]: // 	Hellforged Plate
 ItemDisplay[UNI !ID uul]: // 	Steel Carapace Shadow Plate
-ItemDisplay[UNI !ID uar]:  %RED%O %PURPLE%Tyrael's or Templar's Might %RED%O
+ItemDisplay[UNI !ID uar]: %RED%O %PURPLE%Tyrael's or Templar's Might %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Shields  ███████ //
 ItemDisplay[UNI !ID buc]: // 	Pelta Lunata Buckler
@@ -658,7 +658,7 @@ ItemDisplay[UNI !ID xrg]: // 	Stormchaser Scutum
 ItemDisplay[UNI !ID xit]: // 	Tiamat's Rebuke Dragon Shield
 ItemDisplay[UNI !ID xow]: // 	Gerke's Sanctuary Pavise
 ItemDisplay[UNI !ID xts]: // 	Radament's Sphere Ancient Shield
-//ItemDisplay[UNI !ID xsh]: // 	Lidless Wall Grim Shield
+ItemDisplay[UNI !ID xsh]: // 	Lidless Wall Grim Shield
 ItemDisplay[UNI !ID xpk]: // 	Lance Guard Barbed Shield
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID uml]: // 	Blackoak Shield Luna
@@ -670,7 +670,7 @@ ItemDisplay[UNI !ID upk]: // 	Spike Thorn Blade Barrier
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Gloves  ███████ //
 ItemDisplay[UNI !ID lgl]: // 	The Hand of Broc Leather Gloves
-ItemDisplay[UNI !ID vgl]: %RED%Bloodfist
+ItemDisplay[UNI !ID vgl]: // %RED%Bloodfist
 ItemDisplay[UNI !ID mgl]: %RED%O Chance Guards %RED%O 
 ItemDisplay[UNI !ID tgl]: %RED%O Magefist %RED%O
 ItemDisplay[UNI !ID hgl]: // 	Frostburn Gauntlets
@@ -693,7 +693,7 @@ ItemDisplay[UNI !ID tbt]: // %RED%Goblin Toe
 ItemDisplay[UNI !ID hbt]: // 	Tearhaunch Greaves
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID xlb]: // 	Infernostride Demonhide Boots
-ItemDisplay[UNI !ID xvb]: %RED%O Waterwalk %RED%O
+ItemDisplay[UNI !ID xvb]: // %RED%O Waterwalk %RED%O
 ItemDisplay[UNI !ID xmb]: %RED%O Silkweave %RED%O
 ItemDisplay[UNI !ID xtb]: %RED%O %PURPLE%War Traveler %RED%O
 ItemDisplay[UNI !ID xhb]: // %RED%O %PURPLE%Gore Rider %RED%O
@@ -720,10 +720,10 @@ ItemDisplay[UNI !ID uvc]: %RED%O Nosferatu's Coil %RED%Ot
 ItemDisplay[UNI !ID umc]: %RED%O %PURPLE%Verdungo's Hearty Cord %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Druid Pelts  ███████ //
-ItemDisplay[UNI !ID dra]: // 	%RED%O %PURPLE%Jalal's Mane %RED%O
+ItemDisplay[UNI !ID dra]: %RED%O %PURPLE%Jalal's Mane %RED%O
 ItemDisplay[UNI !ID drb]: // 	Cerebus' Bite Blood Spirt
-ItemDisplay[UNI !ID drd]: // 	%RED%O Spirit Keeper %RED%O
-ItemDisplay[UNI !ID dre]: // 	%RED%O Ravenlore %RED%O
+ItemDisplay[UNI !ID drd]: %RED%O Spirit Keeper %RED%O
+ItemDisplay[UNI !ID dre]: %RED%O Ravenlore %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Barb Helms  ███████ //
 ItemDisplay[UNI !ID baa]: %RED%O %PURPLE%Arreat's Face %RED%O
@@ -916,15 +916,15 @@ ItemDisplay[tax !CLVL<19]: // 	Throwing Axe
 ItemDisplay[bkf !CLVL<19]: // 	Balanced Knife
 ItemDisplay[bal !CLVL<19]: // 	Balanced Axe
 //─────────────────────────────────────────────────
-ItemDisplay[9tk]: %YELLOW%$$ %NAME% $$ // 	Battle Dart
-ItemDisplay[9ta]: %YELLOW%$$ %NAME% $$ // 	Francisca
-ItemDisplay[9bk]: %YELLOW%$$ %NAME% $$ // 	War Dart
-ItemDisplay[9b8]:  // 	Hurlbat
+ItemDisplay[9tk]: // %YELLOW%$$ %NAME% $$ // 	Battle Dart
+ItemDisplay[9ta]: // %YELLOW%$$ %NAME% $$ // 	Francisca
+ItemDisplay[9bk]: // %YELLOW%$$ %NAME% $$ // 	War Dart
+ItemDisplay[9b8]: // 	Hurlbat
 //─────────────────────────────────────────────────
-ItemDisplay[7tk]: %YELLOW%$$ %NAME% $$ // 	Flying Knife
+ItemDisplay[7tk]: // %YELLOW%$$ %NAME% $$ // 	Flying Knife
 ItemDisplay[7ta]: // 	Flying Axe
-ItemDisplay[7bk]: %YELLOW%$$ %NAME% $$ // 	Winged Knife
-ItemDisplay[7b8]:$ // 	Winged Axe
+ItemDisplay[7bk]: //%YELLOW%$$ %NAME% $$ // 	Winged Knife
+ItemDisplay[7b8]: // 	Winged Axe
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Javelins  ███████ //
 ItemDisplay[WP6 AND ETH]:
@@ -1246,7 +1246,7 @@ ItemDisplay[!CLVL<59 xhg]: // 	War Gauntlets
 //─────────────────────────────────────────────────
 ItemDisplay[!CLVL<59 ulg]: // 	Bramble Mitts
 ItemDisplay[!CLVL<59 uvg]: // 	Vampirebone Gloves
-ItemDisplay[umg !CLVL<59]:   // 	Vambraces
+ItemDisplay[umg !CLVL<59]: // 	Vambraces
 ItemDisplay[!CLVL<59 utg]: // 	Crusader Gauntlets
 ItemDisplay[!CLVL<59 uhg]: // 	Ogre Gauntlets
 //─────────────────────────────────────────────────────────────────────────────────────────────────
