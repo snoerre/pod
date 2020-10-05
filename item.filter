@@ -689,14 +689,14 @@ ItemDisplay[UNI !ID uhg]: %RED%Steelrend
 ItemDisplay[UNI !ID lbt]: // 	Hotspur Boots
 ItemDisplay[UNI !ID vbt]: // 	Gorefoot Heavy Boots
 ItemDisplay[UNI !ID mbt]: // 	Treads of Cthon Chain Boots
-ItemDisplay[UNI !ID tbt]: // %RED%Goblin Toe
+ItemDisplay[UNI !ID tbt]: %RED%Goblin Toe
 ItemDisplay[UNI !ID hbt]: // 	Tearhaunch Greaves
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID xlb]: // 	Infernostride Demonhide Boots
-ItemDisplay[UNI !ID xvb]: // %RED%O Waterwalk %RED%O
+ItemDisplay[UNI !ID xvb]: %RED%O Waterwalk %RED%O
 ItemDisplay[UNI !ID xmb]: %RED%O Silkweave %RED%O
 ItemDisplay[UNI !ID xtb]: %RED%O %PURPLE%War Traveler %RED%O
-ItemDisplay[UNI !ID xhb]: // %RED%O %PURPLE%Gore Rider %RED%O
+ItemDisplay[UNI !ID xhb]: %RED%O %PURPLE%Gore Rider %RED%O
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID uvb]: // %RED%Sandstorm Trek
 ItemDisplay[UNI !ID umb]: // %RED%Marrowwalks
