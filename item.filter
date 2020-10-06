@@ -570,7 +570,7 @@ ItemDisplay[UNI !ID obf]: %RED%O Death's Fathom %RED%O
 // ███████  Unique Amazon Bows  ███████ //
 ItemDisplay[UNI !ID am7]: // 	Lycander's Aim Ceremonial Bow
 ItemDisplay[UNI !ID am9]: // 	Lycander's Flank Ceremonial Pike
-ItemDisplay[UNI !ID ama]: %RED%O Titan's Revenge %RED%O
+ItemDisplay[UNI !ID ama]: // %RED%O Titan's Revenge %RED%O
 ItemDisplay[UNI !ID amb]: // 	Blood Raven's Charge Matriarchal Bow
 ItemDisplay[UNI !ID amd]: // 	Stoneraven Matriarchal Spear
 ItemDisplay[UNI !ID amf]: // 	Thunderstroke Matriarchal Javelin
@@ -596,7 +596,7 @@ ItemDisplay[UNI !ID xh9]: %RED%O %PURPLE%Vampire Gaze %RED%O
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID uap]: %RED%O %PURPLE%Shako %RED%O
 ItemDisplay[UNI !ID ulm]: %RED%O %PURPLE%Steel Shade %RED%O
-ItemDisplay[UNI !ID uhm]: %RED%O %PURPLE%ETH Steel Shade %RED%O
+ItemDisplay[UNI !ID uhm]: %RED%O Veil of Steel or Nightwing's Veil %RED%O
 ItemDisplay[UNI !ID urn]: // 	Crown of Ages Corona
 ItemDisplay[UNI !ID usk]: RED%O %PURPLE%Andariel's Visage %RED%O
 ItemDisplay[UNI !ID uh9]: // 	Giant Skull Bone Visage
@@ -625,14 +625,14 @@ ItemDisplay[UNI !ID xtu]: // 	Iron Pelt Trellised Armor
 ItemDisplay[UNI !ID xng]: // 	Spirit Forge Linked Mail
 ItemDisplay[UNI !ID xcl]: // 	Crow Caw Tigulated Mail
 ItemDisplay[UNI !ID xhn]: %RED%O %PURPLE%Shaftstop %RED%O
-ItemDisplay[UNI !ID xrs]: // 	Duriel's Shell Cuirass
+ItemDisplay[UNI !ID xrs]: %RED%O %PURPLE%Duriel's Shell Cuirass %RED%O
 ItemDisplay[UNI !ID xpl]: // 	Skullder's Ire Russet Armor
 ItemDisplay[UNI !ID xlt]: %RED%O %PURPLE%Guardian Angel %RED%O
 ItemDisplay[UNI !ID xld]: // 	Toothrow Sharktooth Armor
 ItemDisplay[UNI !ID xth]: // 	Atma's Wail Embossed Plate
 ItemDisplay[UNI !ID xul]: // 	Black Hades Chaos Armor
 ItemDisplay[UNI !ID xar]: // 	CorpsemournOrnate Armor
-ItemDisplay[UNI !ID xtp]: // 	Que-Hegan's Wisdom Mage Plate
+ItemDisplay[UNI !ID xtp]: %RED%O %PURPLE%Que-Hegan's Wisdom Mage Plate %RED%O
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID uui]: %RED%O %PURPLE%Ormus' Robes %RED%O
 ItemDisplay[UNI !ID utu]: %RED%The Gladiator's Bane
@@ -698,8 +698,8 @@ ItemDisplay[UNI !ID xmb]: %RED%O Silkweave %RED%O
 ItemDisplay[UNI !ID xtb]: %RED%O %PURPLE%War Traveler %RED%O
 ItemDisplay[UNI !ID xhb]: %RED%O %PURPLE%Gore Rider %RED%O
 //─────────────────────────────────────────────────
-ItemDisplay[UNI !ID uvb]: // %RED%Sandstorm Trek
-ItemDisplay[UNI !ID umb]: // %RED%Marrowwalks
+ItemDisplay[UNI !ID uvb]: %RED%Sandstorm Trek
+ItemDisplay[UNI !ID umb]: %RED%Marrowwalks
 ItemDisplay[UNI !ID uhb]: %RED%O Shadow Dancer %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Belts  ███████ //
@@ -910,7 +910,7 @@ ItemDisplay[7kr !CLVL<59]: // 	Fanged Knife
 ItemDisplay[7bl !CLVL<59]: // 	Legend Spike
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Throwing  ███████ //
-ItemDisplay[WP5 AND ETH]:
+// ItemDisplay[WP5 AND ETH]:
 ItemDisplay[tkf !CLVL<19]: // 	Throwing Knife
 ItemDisplay[tax !CLVL<19]: // 	Throwing Axe
 ItemDisplay[bkf !CLVL<19]: // 	Balanced Knife
