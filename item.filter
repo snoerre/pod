@@ -157,15 +157,15 @@ ItemDisplay[r03]: // 	Tir Rune
 ItemDisplay[r04]: // 	Nef Rune
 ItemDisplay[r05]: // 	Eth Rune
 ItemDisplay[r06]: // 	Ith Rune
-ItemDisplay[r07]: // 	Tal Rune
-ItemDisplay[r08]: // 	Ral Rune
-ItemDisplay[r09]: // 	Ort Rune
-ItemDisplay[r10]: // 	Thul Rune
-ItemDisplay[r11]: Amn Rune
-ItemDisplay[r12]: // 	Sol Rune
-ItemDisplay[r13]: Shael Rune
-ItemDisplay[r14]: // 	Dol Rune
-ItemDisplay[r15]: // 	Hel Rune
+ItemDisplay[r07]: %TAN%Tal [%RUNENUM%]
+ItemDisplay[r08]: %TAN%Ral [%RUNENUM%]
+ItemDisplay[r09]: %TAN%Ort [%RUNENUM%]
+ItemDisplay[r10]: %TAN%Thul [%RUNENUM%]
+ItemDisplay[r11]: %TAN%Amn [%RUNENUM%]
+ItemDisplay[r12]: %TAN%Sol [%RUNENUM%]
+ItemDisplay[r13]: %TAN%%RUNENAME% [%RUNENUM%] 
+ItemDisplay[r14]: %TAN%%RUNENAME% [%RUNENUM%] 
+ItemDisplay[r15]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
 ItemDisplay[r16]: %TAN%%RUNENAME% [%RUNENUM%] 
 //17-23
 ItemDisplay[r17]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
@@ -563,7 +563,7 @@ ItemDisplay[UNI !ID 7cs]: // 	Shadow Killer Battle Cestus
 ItemDisplay[UNI !ID 7lw]: // 	Firelizard's Talons Feral Claws
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Sorc Orbs  ███████ //
-ItemDisplay[UNI !ID oba]: %RED%The Oculus
+ItemDisplay[UNI !ID oba]: %RED%O The Oculus %RED%O
 ItemDisplay[UNI !ID obc]: %RED%O Eschuta's Temper %RED%O
 ItemDisplay[UNI !ID obf]: %RED%O Death's Fathom %RED%O
 //─────────────────────────────────────────────────────────────────────────────────────────────────
@@ -635,7 +635,7 @@ ItemDisplay[UNI !ID xar]: // 	CorpsemournOrnate Armor
 ItemDisplay[UNI !ID xtp]: %RED%O %PURPLE%Que-Hegan's Wisdom Mage Plate %RED%O
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID uui]: %RED%O %PURPLE%Ormus' Robes %RED%O
-ItemDisplay[UNI !ID utu]: %RED%The Gladiator's Bane
+ItemDisplay[UNI !ID utu]: %RED% The Gladiator's Bane
 ItemDisplay[UNI !ID upl]: %RED%O %PURPLE%Arkaine's Valor %RED%O
 ItemDisplay[UNI !ID uld]: // 	Leviathan Kraken Shell
 ItemDisplay[UNI !ID ult]: // 	Hellforged Plate
