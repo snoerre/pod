@@ -157,16 +157,16 @@ ItemDisplay[r03]: // 	Tir Rune
 ItemDisplay[r04]: // 	Nef Rune
 ItemDisplay[r05]: // 	Eth Rune
 ItemDisplay[r06]: // 	Ith Rune
-ItemDisplay[r07]: %TAN%Tal [%RUNENUM%]
-ItemDisplay[r08]: %TAN%Ral [%RUNENUM%]
-ItemDisplay[r09]: %TAN%Ort [%RUNENUM%]
-ItemDisplay[r10]: %TAN%Thul [%RUNENUM%]
-ItemDisplay[r11]: %TAN%Amn [%RUNENUM%]
-ItemDisplay[r12]: %TAN%Sol [%RUNENUM%]
-ItemDisplay[r13]: %TAN%%RUNENAME% [%RUNENUM%] 
-ItemDisplay[r14]: %TAN%%RUNENAME% [%RUNENUM%] 
+ItemDisplay[r07]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE% 
+ItemDisplay[r08]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE% 
+ItemDisplay[r09]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE% 
+ItemDisplay[r10]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE% 
+ItemDisplay[r11]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE% 
+ItemDisplay[r12]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE% 
+ItemDisplay[r13]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE% 
+ItemDisplay[r14]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%  
 ItemDisplay[r15]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
-ItemDisplay[r16]: %TAN%%RUNENAME% [%RUNENUM%] 
+ItemDisplay[r16]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE% 
 //17-23
 ItemDisplay[r17]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
 ItemDisplay[r18]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
