@@ -120,12 +120,12 @@ ItemDisplay[hp1]: //	Minor Healing Potion
 ItemDisplay[hp2]: // 	Light Healing Potion
 ItemDisplay[hp3]: // 	Healing Potion
 ItemDisplay[hp4]: // 	Greater Healing Potion
-ItemDisplay[hp5]: %RED%!%WHITE%H+
+ItemDisplay[hp5]: // %RED%!%WHITE%H+
 ItemDisplay[mp1]: // 	Minor Mana Potion
 ItemDisplay[mp2]: // 	Light Mana Potion
 ItemDisplay[mp3]: // 	Mana Potion
 ItemDisplay[mp4]: // 	Greater Mana Potion
-ItemDisplay[mp5]: %BLUE%!%WHITE%M+
+ItemDisplay[mp5]: // %BLUE%!%WHITE%M+
 ItemDisplay[rvs]: %PURPLE%R %WHITE%35%
 ItemDisplay[rvl]: %PURPLE%R %WHITE%70%
 ItemDisplay[wms]: // 	Thawing Potion
@@ -159,20 +159,20 @@ ItemDisplay[r03]: // %TAN%%RUNENAME% [%RUNENUM%]
 ItemDisplay[r04]: // %TAN%Nef [%RUNENUM%] 
 ItemDisplay[r05]: // %TAN%%RUNENAME% [%RUNENUM%]
 ItemDisplay[r06]: // %TAN%Ith [%RUNENUM%]
-ItemDisplay[r07]: %TAN%Tal [%RUNENUM%]
-ItemDisplay[r08]: %TAN%Ral [%RUNENUM%]
-ItemDisplay[r09]: %TAN%Ort [%RUNENUM%]
-ItemDisplay[r10]: %TAN%Thul [%RUNENUM%]
-ItemDisplay[r11]: %TAN%Amn [%RUNENUM%] 
-ItemDisplay[r12]: %TAN%Sol [%RUNENUM%]
-ItemDisplay[r13]: %TAN%%RUNENAME% [%RUNENUM%] 
-ItemDisplay[r14]: %TAN%%RUNENAME% [%RUNENUM%] 
-ItemDisplay[r15]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
-ItemDisplay[r16]: %TAN%%RUNENAME% [%RUNENUM%] 
+ItemDisplay[r07]: // %TAN%Tal [%RUNENUM%]
+ItemDisplay[r08]: // %TAN%Ral [%RUNENUM%]
+ItemDisplay[r09]: // %TAN%Ort [%RUNENUM%]
+ItemDisplay[r10]: // %TAN%Thul [%RUNENUM%]
+ItemDisplay[r11]: // %TAN%Amn [%RUNENUM%] 
+ItemDisplay[r12]: // %TAN%Sol [%RUNENUM%]
+ItemDisplay[r13]: // %TAN%%RUNENAME% [%RUNENUM%] 
+ItemDisplay[r14]: // %TAN%%RUNENAME% [%RUNENUM%] 
+ItemDisplay[r15]: // %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
+ItemDisplay[r16]: // %TAN%%RUNENAME% [%RUNENUM%] 
 //17-23
-ItemDisplay[r17]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
-ItemDisplay[r18]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
-ItemDisplay[r19]: %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
+ItemDisplay[r17]: // %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
+ItemDisplay[r18]: // %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
+ItemDisplay[r19]: // %ORANGE%   %RUNENAME% [%RUNENUM%]   %ORANGE%
 ItemDisplay[r20]: %PURPLE%  OO %RED%%RUNENAME%%PURPLE% OO [%RUNENUM%]  %RED%
 ItemDisplay[r21]: %PURPLE%  OOO %RED%%RUNENAME%%PURPLE% OOO [%RUNENUM%]  %RED%
 ItemDisplay[r22]: %PURPLE%  OOO %RED%%RUNENAME%%PURPLE% OOO [%RUNENUM%]  %RED%
@@ -488,8 +488,8 @@ ItemDisplay[UNI !ID 9h9]: // 	Husoldal Evo Bec-de-Corbin
 ItemDisplay[UNI !ID 9wc]: // 	Grim's Burning Dead Grim Scythe
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID 7o7]: // 	Bonehew Ogre Axe
-ItemDisplay[UNI !ID 7s8]: %RED%O Reaper's Toll %RED%O
-ItemDisplay[UNI !ID 7pa]: %RED%O Tomb Reaver %RED%O
+ItemDisplay[UNI !ID 7s8]: // %RED%O Reaper's Toll %RED%O
+ItemDisplay[UNI !ID 7pa]: // %RED%O Tomb Reaver %RED%O
 ItemDisplay[UNI !ID 7wc]: // 	Stormspire Giant Thresher
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Unique Staves  ███████ //
@@ -591,7 +591,7 @@ ItemDisplay[UNI !ID xap]: // 	Peasant Crown War Hat
 ItemDisplay[UNI !ID xkp]: // 	Rockstopper Sallet
 ItemDisplay[UNI !ID xlm]: // 	Stealskull Casque
 ItemDisplay[UNI !ID xhl]: // 	Darksight Helm Basinet
-ItemDisplay[UNI !ID xhm]: %RED%O Valkyrie Wing
+ItemDisplay[UNI !ID xhm]: // %RED%O Valkyrie Wing
 ItemDisplay[UNI !ID xrn]: // 	Crown of Thieves Grand Crown
 ItemDisplay[UNI !ID xsk]: // 	Blackhorn's Face Death Mask
 ItemDisplay[UNI !ID xh9]: %RED%O %PURPLE%Vampire Gaze %RED%O
@@ -627,7 +627,7 @@ ItemDisplay[UNI !ID xtu]: // 	Iron Pelt Trellised Armor
 ItemDisplay[UNI !ID xng]: // 	Spirit Forge Linked Mail
 ItemDisplay[UNI !ID xcl]: // 	Crow Caw Tigulated Mail
 ItemDisplay[UNI !ID xhn]: %RED%O %PURPLE%Shaftstop %RED%O
-ItemDisplay[UNI !ID xrs]: %RED%O %PURPLE%Duriel's Shell Cuirass %RED%O
+ItemDisplay[UNI !ID xrs]: // %RED%O %PURPLE%Duriel's Shell Cuirass %RED%O
 ItemDisplay[UNI !ID xpl]: // 	Skullder's Ire Russet Armor
 ItemDisplay[UNI !ID xlt]: %RED%O %PURPLE%Guardian Angel %RED%O
 ItemDisplay[UNI !ID xld]: // 	Toothrow Sharktooth Armor
@@ -665,7 +665,7 @@ ItemDisplay[UNI !ID xpk]: // 	Lance Guard Barbed Shield
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID uml]: // 	Blackoak Shield Luna
 ItemDisplay[UNI !ID uit]: %RED%O %PURPLE%Stormshield %RED%O
-ItemDisplay[UNI !ID uow]: %RED%O %PURPLE%Medusa's Gaze %RED%O
+ItemDisplay[UNI !ID uow]: // %RED%O %PURPLE%Medusa's Gaze %RED%O
 ItemDisplay[UNI !ID uts]: // 	Spirit Ward Ward
 ItemDisplay[UNI !ID ush]: // 	Head Hunter's Glory Troll Nest
 ItemDisplay[UNI !ID upk]: // 	Spike Thorn Blade Barrier
@@ -673,7 +673,7 @@ ItemDisplay[UNI !ID upk]: // 	Spike Thorn Blade Barrier
 // ███████  Unique Gloves  ███████ //
 ItemDisplay[UNI !ID lgl]: // 	The Hand of Broc Leather Gloves
 ItemDisplay[UNI !ID vgl]: // %RED%Bloodfist
-ItemDisplay[UNI !ID mgl]: %RED%O Chance Guards %RED%O 
+ItemDisplay[UNI !ID mgl]: // %RED%O Chance Guards %RED%O 
 ItemDisplay[UNI !ID tgl]: %RED%O Magefist %RED%O
 ItemDisplay[UNI !ID hgl]: // 	Frostburn Gauntlets
 //─────────────────────────────────────────────────
@@ -691,7 +691,7 @@ ItemDisplay[UNI !ID uhg]: %RED%Steelrend
 ItemDisplay[UNI !ID lbt]: // 	Hotspur Boots
 ItemDisplay[UNI !ID vbt]: // 	Gorefoot Heavy Boots
 ItemDisplay[UNI !ID mbt]: // 	Treads of Cthon Chain Boots
-ItemDisplay[UNI !ID tbt]: %RED%Goblin Toe
+ItemDisplay[UNI !ID tbt]: // %RED%Goblin Toe
 ItemDisplay[UNI !ID hbt]: // 	Tearhaunch Greaves
 //─────────────────────────────────────────────────
 ItemDisplay[UNI !ID xlb]: // 	Infernostride Demonhide Boots
