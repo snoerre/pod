@@ -1291,23 +1291,23 @@ ItemDisplay[!CLVL<59 utc]: // 	Troll Belt
 ItemDisplay[!CLVL<59 uhc]: // 	Colossus Girdle
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Druid Pelts  ███████ //
-ItemDisplay[dr1 !CLVL<49]: // 	Wolf Head
-ItemDisplay[dr2 !CLVL<49]: // 	Hawk Helm
-ItemDisplay[dr3 !CLVL<49]: // 	Antlers
-ItemDisplay[dr4 !CLVL<49]: // 	Falcon Mask
-ItemDisplay[dr5 !CLVL<49]: // 	Spirit Mask
+ItemDisplay[dr1 !CLVL<49]: %YELLOW% %NAME% // 	Wolf Head
+ItemDisplay[dr2 !CLVL<49]: %YELLOW% %NAME% // 	Hawk Helm
+ItemDisplay[dr3 !CLVL<49]: %YELLOW% %NAME% // 	Antlers
+ItemDisplay[dr4 !CLVL<49]: %YELLOW% %NAME% // 	Falcon Mask
+ItemDisplay[dr5 !CLVL<49]: %YELLOW% %NAME% // 	Spirit Mask
 //─────────────────────────────────────────────────
-ItemDisplay[dr6 !CLVL<49]: // 	Alpha Helm
-ItemDisplay[dr7 !CLVL<49]: // 	Griffon Headress
-ItemDisplay[dr8 !CLVL<49]: // 	Hunter's Guise
-ItemDisplay[dr9 !CLVL<49]: // 	Sacred Feathers
-ItemDisplay[dra !CLVL<49]: // 	Totemic Mask
+ItemDisplay[dr6 !CLVL<49]: %YE LLOW% %NAME% // 	Alpha Helm
+ItemDisplay[dr7 !CLVL<49]: %YELLOW% %NAME% // 	Griffon %YELLOW%$$ %NAME% Headress
+ItemDisplay[dr8 !CLVL<49]: %YELLOW% %NAME% // 	Hunter's Guise
+ItemDisplay[dr9 !CLVL<49]: %YELLOW% %NAME% // 	Sacred Feathers
+ItemDisplay[dra !CLVL<49]: %YELLOW% %NAME% //  	Totemic Mask
 //─────────────────────────────────────────────────
-ItemDisplay[drb !CLVL<49]: // 	Blood Spirt
-ItemDisplay[drc !CLVL<49]: // 	Sun Spirit
-ItemDisplay[drd !CLVL<49]: // 	Earth Spirit
-ItemDisplay[dre !CLVL<49]: // 	Sky Spirit
-ItemDisplay[drf !CLVL<49]: // 	Dream Spirit
+ItemDisplay[drb !CLVL<49]: %YELLOW% %NAME%  // 	Blood Spirt
+ItemDisplay[drc !CLVL<49]: %YELLOW% %NAME%  // 	Sun Spirit
+ItemDisplay[drd !CLVL<49]: %YELLOW% %NAME%  // 	Earth Spirit
+ItemDisplay[dre !CLVL<49]: %YELLOW% %NAME%  // 	Sky Spirit
+ItemDisplay[drf !CLVL<49]: %YELLOW% %NAME%  // 	Dream Spirit
 //─────────────────────────────────────────────────────────────────────────────────────────────────
 // ███████  Barb Helms  ███████ //
 ItemDisplay[ba1 !CLVL<19]: // 	Jawbone Cap
